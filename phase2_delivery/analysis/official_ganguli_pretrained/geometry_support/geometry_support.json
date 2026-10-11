@@ -1,0 +1,62 @@
+{
+  "Jacobian_locally_rank2_fraction": 1.0,
+  "Jacobian_second_to_first_singular_ratio_median": 0.678872287273407,
+  "Jacobian_note": "Stationary states are a deterministic map of two physical initial-position variables. Local rank supports 2D organization, not global homeomorphism.",
+  "predicted_lattice_matrix_m": [
+    [
+      0.7963137379123534,
+      -0.8038797307601816
+    ],
+    [
+      0.3272286678590682,
+      0.5530176407294076
+    ]
+  ],
+  "periodicity_tests": [
+    {
+      "axis": 0,
+      "type": "discovery_predicted_lattice",
+      "physical_shift_m": [
+        0.7963137379123534,
+        0.3272286678590682
+      ],
+      "candidate_difference_median": 0.6129392385482788,
+      "candidate_difference_mean": 0.6190856695175171,
+      "full_population_difference_median": 1.7804741859436035
+    },
+    {
+      "axis": 0,
+      "type": "same_length_rotated_control",
+      "physical_shift_m": [
+        0.3316932339880447,
+        0.7944644540716198
+      ],
+      "candidate_difference_median": 1.5321545600891113,
+      "candidate_difference_mean": 1.5216474533081055,
+      "full_population_difference_median": 3.031745433807373
+    },
+    {
+      "axis": 1,
+      "type": "discovery_predicted_lattice",
+      "physical_shift_m": [
+        -0.8038797307601816,
+        0.5530176407294076
+      ],
+      "candidate_difference_median": 0.5916531682014465,
+      "candidate_difference_mean": 0.6118637323379517,
+      "full_population_difference_median": 1.8843164443969727
+    },
+    {
+      "axis": 1,
+      "type": "same_length_rotated_control",
+      "physical_shift_m": [
+        -0.9594713327544905,
+        -0.17738628500339051
+      ],
+      "candidate_difference_median": 1.2396490573883057,
+      "candidate_difference_mean": 1.2225511074066162,
+      "full_population_difference_median": 2.5767884254455566
+    }
+  ],
+  "scope": "supporting tests, no neuron selection or PH threshold fitted from these results"
+}

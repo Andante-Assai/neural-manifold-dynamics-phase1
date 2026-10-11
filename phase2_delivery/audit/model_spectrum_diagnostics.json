@@ -1,0 +1,16 @@
+[
+  {
+    "source": "existing_full4096_fast",
+    "recurrent_Frobenius_norm_squared": 2994.6025390625,
+    "recurrent_singular_value_participation_ratio": 65.02285534759541,
+    "top32_singular_energy_fraction_lower_bound": 0.5127022967428704,
+    "note": "Weight spectrum is a diagnostic, not intrinsic manifold dimension or an isolated causal attribution."
+  },
+  {
+    "source": "official_ganguli_pretrained",
+    "recurrent_Frobenius_norm_squared": 77.43824768066406,
+    "recurrent_singular_value_participation_ratio": 18.536631154107905,
+    "top32_singular_energy_fraction_lower_bound": 0.8674847433287101,
+    "note": "Weight spectrum is a diagnostic, not intrinsic manifold dimension or an isolated causal attribution."
+  }
+]

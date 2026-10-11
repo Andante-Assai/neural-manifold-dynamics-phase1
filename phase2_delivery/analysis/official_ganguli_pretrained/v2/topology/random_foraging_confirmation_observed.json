@@ -1,0 +1,156 @@
+{
+  "source": "official_ganguli_pretrained",
+  "condition": "random_foraging",
+  "split": "confirmation",
+  "observed": {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.22721608324855264,
+    "first_H2_normalized_lifetime": 0.17021935339497046,
+    "H1_second_to_third_ratio": 1.6704607339812367,
+    "H2_first_to_second_ratio": 2.0753830390591257,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      512,
+      757,
+      651
+    ],
+    "n_input": 4096,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4958455562591553,
+    "distance_scale": 1.4958455562591553,
+    "seconds": 2.2518573999986984
+  },
+  "sensitivity": [
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.22721608324855264,
+      "first_H2_normalized_lifetime": 0.17021935339497046,
+      "H1_second_to_third_ratio": 1.6704607339812367,
+      "H2_first_to_second_ratio": 2.0753830390591257,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        757,
+        651
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 2,
+      "metric": "euclidean",
+      "threshold": 1.4958455562591553,
+      "distance_scale": 1.4958455562591553,
+      "seconds": 2.19062579999445,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.19487746157346497,
+      "first_H2_normalized_lifetime": 0.17150691230201268,
+      "H1_second_to_third_ratio": 1.407711211924376,
+      "H2_first_to_second_ratio": 1.866913123844732,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        384,
+        562,
+        456
+      ],
+      "n_input": 4096,
+      "landmarks": 384,
+      "field": 47,
+      "metric": "euclidean",
+      "threshold": 1.5026750564575195,
+      "distance_scale": 1.5026750564575195,
+      "seconds": 0.8471359999966808,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.27750297654577255,
+      "first_H2_normalized_lifetime": 0.31568849557682804,
+      "H1_second_to_third_ratio": 2.104279947716108,
+      "H2_first_to_second_ratio": 1.8302845247635102,
+      "beta121_intervals": [
+        [
+          0.4957016110420227,
+          0.4995373487472534
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.0036513467422767546,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        793,
+        765
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.050499439239502,
+      "distance_scale": 1.050499439239502,
+      "seconds": 2.031127499998547,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": true,
+      "score": 0.35529890288011545,
+      "second_H1_normalized_lifetime": 0.35529890288011545,
+      "first_H2_normalized_lifetime": 0.5575658640318242,
+      "H1_second_to_third_ratio": 4.362971716193658,
+      "H2_first_to_second_ratio": 3.2694847383126526,
+      "beta121_intervals": [
+        [
+          0.23503875732421875,
+          0.4435127377510071
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.19671403961374992,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        506,
+        218
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.0597819089889526,
+      "distance_scale": 1.0597819089889526,
+      "seconds": 2.0765414999914356,
+      "representation": "PCA6"
+    }
+  ]
+}

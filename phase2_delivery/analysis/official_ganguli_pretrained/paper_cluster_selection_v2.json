@@ -1,0 +1,43 @@
+{
+  "source": "official_ganguli_pretrained",
+  "selection_uses_only_discovery": true,
+  "selection_uses_topology": false,
+  "eligible_clusters": [
+    5,
+    16,
+    17
+  ],
+  "all_eligible_triplets": [
+    {
+      "cluster_labels": [
+        5,
+        16,
+        17
+      ],
+      "n": 483,
+      "closure_error": 0.009429919716415157,
+      "angular_gaps": [
+        56.86467283487765,
+        67.60106795386817,
+        55.53425921125418
+      ]
+    }
+  ],
+  "chosen_triplet": {
+    "cluster_labels": [
+      5,
+      16,
+      17
+    ],
+    "n": 483,
+    "closure_error": 0.009429919716415157,
+    "angular_gaps": [
+      56.86467283487765,
+      67.60106795386817,
+      55.53425921125418
+    ]
+  },
+  "neurons": 483,
+  "mask_sha256": "0e0f379a2db5e4b38581503da371eb1008a73a1d52fca140c8970e9574cd38fd",
+  "protocol_sha256": "d25ae5fb7256edd9fdee31d7b2cbe8734f357e6b351505756e9cdfbbb6360b69"
+}

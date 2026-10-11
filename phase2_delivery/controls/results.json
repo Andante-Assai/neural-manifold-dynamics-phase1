@@ -1,0 +1,251 @@
+[
+  {
+    "signature_pass": true,
+    "score": 0.6002693400051363,
+    "second_H1_normalized_lifetime": 0.702170863674264,
+    "first_H2_normalized_lifetime": 0.6002693400051363,
+    "H1_second_to_third_ratio": 5.233553758725374,
+    "H2_first_to_second_ratio": 18.361994510167786,
+    "beta121_intervals": [
+      [
+        0.4207627475261688,
+        1.229309320449829
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.5714795799891746,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      203,
+      149
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.414830207824707,
+    "distance_scale": 1.414830207824707,
+    "seconds": 1.0240513000171632,
+    "control": "clifford_torus"
+  },
+  {
+    "signature_pass": true,
+    "score": 0.6173540795433937,
+    "second_H1_normalized_lifetime": 0.7272944924495598,
+    "first_H2_normalized_lifetime": 0.6173540795433937,
+    "H1_second_to_third_ratio": 5.9815847727440286,
+    "H2_first_to_second_ratio": 20.9211415385582,
+    "beta121_intervals": [
+      [
+        0.39459002017974854,
+        1.227368950843811
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.5887125317958513,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      512,
+      260,
+      196
+    ],
+    "n_input": 2048,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.414576530456543,
+    "distance_scale": 1.414576530456543,
+    "seconds": 2.6223259000107646,
+    "control": "clifford_torus"
+  },
+  {
+    "signature_pass": true,
+    "score": 0.5221104633379533,
+    "second_H1_normalized_lifetime": 0.6920996198935787,
+    "first_H2_normalized_lifetime": 0.5221104633379533,
+    "H1_second_to_third_ratio": 3.4592730851026188,
+    "H2_first_to_second_ratio": 20.82459049912534,
+    "beta121_intervals": [
+      [
+        0.611376166343689,
+        1.316949725151062
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.48161460074748647,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      204,
+      66
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4650169610977173,
+    "distance_scale": 1.4650169610977173,
+    "seconds": 1.0096066999831237,
+    "control": "three_direction_bands"
+  },
+  {
+    "signature_pass": true,
+    "score": 0.5764980351434447,
+    "second_H1_normalized_lifetime": 0.7120105674668621,
+    "first_H2_normalized_lifetime": 0.5764980351434447,
+    "H1_second_to_third_ratio": 4.568770304970763,
+    "H2_first_to_second_ratio": 27.015197603190657,
+    "beta121_intervals": [
+      [
+        0.5281243324279785,
+        1.316949725151062
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.5389324211512226,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      512,
+      269,
+      73
+    ],
+    "n_input": 2048,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4636814594268799,
+    "distance_scale": 1.4636814594268799,
+    "seconds": 2.367388500017114,
+    "control": "three_direction_bands"
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.07442327470571528,
+    "first_H2_normalized_lifetime": 0.0014718834663421281,
+    "H1_second_to_third_ratio": 1.023606477328449,
+    "H2_first_to_second_ratio": 1471883466.342128,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      178,
+      1
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.2960987091064453,
+    "distance_scale": 1.2960987091064453,
+    "seconds": 0.9981368000153452,
+    "control": "plane"
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.07628402319691246,
+    "first_H2_normalized_lifetime": 0.0014817513017059724,
+    "H1_second_to_third_ratio": 1.126943454786416,
+    "H2_first_to_second_ratio": 1481751301.7059724,
+    "beta121_intervals": [
+      [
+        0.21838074922561646,
+        0.2202884554862976
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.0014817513017059724,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      512,
+      258,
+      1
+    ],
+    "n_input": 2048,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.2874672412872314,
+    "distance_scale": 1.2874672412872314,
+    "seconds": 2.602438899979461,
+    "control": "plane"
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.10836821607227315,
+    "first_H2_normalized_lifetime": 0.7466414249928416,
+    "H1_second_to_third_ratio": 1.0258654722629201,
+    "H2_first_to_second_ratio": 746641424992.8416,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      1
+    ],
+    "bar_counts": [
+      384,
+      216,
+      1
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4167522192001343,
+    "distance_scale": 1.4167522192001343,
+    "seconds": 1.6390348999993876,
+    "control": "sphere"
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.10383759568891301,
+    "first_H2_normalized_lifetime": 0.7632658270674666,
+    "H1_second_to_third_ratio": 1.035904950411878,
+    "H2_first_to_second_ratio": 241.6725388255682,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      1
+    ],
+    "bar_counts": [
+      512,
+      253,
+      2
+    ],
+    "n_input": 2048,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4157276153564453,
+    "distance_scale": 1.4157276153564453,
+    "seconds": 4.691438900015783,
+    "control": "sphere"
+  }
+]

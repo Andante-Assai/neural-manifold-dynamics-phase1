@@ -1,0 +1,122 @@
+{
+  "observed": {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.22769644129847702,
+    "first_H2_normalized_lifetime": 0.1868108024126607,
+    "H1_second_to_third_ratio": 1.8348558532319166,
+    "H2_first_to_second_ratio": 2.066417041565125,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      768,
+      1237,
+      1121
+    ],
+    "n_input": 8192,
+    "landmarks": 768,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5023372173309326,
+    "distance_scale": 1.5023372173309326,
+    "seconds": 8.312308499997016
+  },
+  "sensitivity": [
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.22769644129847702,
+      "first_H2_normalized_lifetime": 0.1868108024126607,
+      "H1_second_to_third_ratio": 1.8348558532319166,
+      "H2_first_to_second_ratio": 2.066417041565125,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        768,
+        1237,
+        1121
+      ],
+      "n_input": 8192,
+      "landmarks": 768,
+      "field": 2,
+      "metric": "euclidean",
+      "threshold": 1.5023372173309326,
+      "distance_scale": 1.5023372173309326,
+      "seconds": 8.153159200039227
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.260469234294562,
+      "first_H2_normalized_lifetime": 0.22140555870122575,
+      "H1_second_to_third_ratio": 2.0981917445292555,
+      "H2_first_to_second_ratio": 2.6554102151065244,
+      "beta121_intervals": [
+        [
+          0.9528693556785583,
+          0.9574587345123291
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.003073261669529435,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        1024,
+        1692,
+        1665
+      ],
+      "n_input": 8192,
+      "landmarks": 1024,
+      "field": 47,
+      "metric": "euclidean",
+      "threshold": 1.493325114250183,
+      "distance_scale": 1.493325114250183,
+      "seconds": 20.27611129998695
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.260469234294562,
+      "first_H2_normalized_lifetime": 0.22140555870122575,
+      "H1_second_to_third_ratio": 2.0981917445292555,
+      "H2_first_to_second_ratio": 2.6554102151065244,
+      "beta121_intervals": [
+        [
+          0.9528693556785583,
+          0.9574587345123291
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.003073261669529435,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        1024,
+        1692,
+        1665
+      ],
+      "n_input": 8192,
+      "landmarks": 1024,
+      "field": 2,
+      "metric": "euclidean",
+      "threshold": 1.493325114250183,
+      "distance_scale": 1.493325114250183,
+      "seconds": 26.604351299989503
+    }
+  ]
+}

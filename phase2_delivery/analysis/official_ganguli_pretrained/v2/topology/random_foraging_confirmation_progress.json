@@ -1,0 +1,16 @@
+{
+  "completed": 1,
+  "planned": 19,
+  "scores": [
+    0.0
+  ],
+  "details": [
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04016677474839142,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    }
+  ]
+}

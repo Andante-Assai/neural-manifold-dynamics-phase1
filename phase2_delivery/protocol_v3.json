@@ -1,0 +1,18 @@
+{
+ "version":"phase2-fixed-cells-high-resolution-v3",
+ "reason":"v2 stationary raw state signature was inconsistent at 384 landmarks; diagnostic convergence study at 768/1024 landmarks passed on both old splits, while random-motion raw states still failed. These old diagnostics cannot serve as confirmation.",
+ "new_independent_validation_seed":72802,"new_independent_confirmation_seed":72803,
+ "N_independent_positions_per_split":8192,
+ "conditions":["stationary","random_foraging"],
+ "neuron_selection":"exactly the immutable v2 discovery-only 483-cell mask; no additional selection, no threshold relaxation",
+ "mask_sha256":"0e0f379a2db5e4b38581503da371eb1008a73a1d52fca140c8970e9574cd38fd",
+ "primary_PH_landmarks":768,"sensitivity_PH_landmarks":1024,
+ "primary_field":47,"sensitivity_field":2,
+ "statistic":"unchanged v1/v2 raw Euclidean joint H0/H1/H2 statistic and thresholds, median-distance cutoff; no PCA/UMAP in primary test",
+ "nulls":199,
+ "null_optimization":"Compute full H1 first. If necessary H1 lifetime or separation conditions fail, the prescribed joint statistic is exactly zero regardless of H2; record H2 as not computed rather than fabricated. Otherwise compute full H2. This is algebraically equivalent to the original conjunction statistic.",
+ "multiple_testing":"Holm across ten source/method/condition slots per split: v1 two source candidates; v2 four source-condition candidates; v3 four source-condition candidates. Unavailable candidates have p=1. Account for all method attempts, not just the final selected analysis.",
+ "acceptance":"both NEW heldout splits, same condition, pass raw field47 signature, field2 and 1024-landmark sensitivity, Holm p<=0.05. Stationary success cannot establish random-motion or all-neuron torus.",
+ "no_further_refinements":"If this fixed-cell convergence confirmation fails, report no robust raw-state torus acceptance; do not keep changing selections or thresholds.",
+ "raw_recording":"all 4096 units at step20, initial place code and full 20-step input/position history; after acceptance collect all 0..20 raw states in a separate matched-sample experiment"
+}

@@ -1,0 +1,1435 @@
+{
+  "completed": 181,
+  "planned": 199,
+  "scores": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "details": [
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04042570361275375,
+      "first_H2_normalized_lifetime": 0.027299784371488445
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04477303766124548,
+      "first_H2_normalized_lifetime": 0.027078946533886178
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04110800195525068,
+      "first_H2_normalized_lifetime": 0.031085609448553115
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04024951642912528,
+      "first_H2_normalized_lifetime": 0.027067771033916443
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03821599701929659,
+      "first_H2_normalized_lifetime": 0.028558517966536405
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04211324094168025,
+      "first_H2_normalized_lifetime": 0.0284107276154284
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039719361401813744,
+      "first_H2_normalized_lifetime": 0.02927728508788193
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04071362464539002,
+      "first_H2_normalized_lifetime": 0.026147675733797907
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03976335914095173,
+      "first_H2_normalized_lifetime": 0.0278485994629216
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039500750390512,
+      "first_H2_normalized_lifetime": 0.025450106667688936
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04036445101710769,
+      "first_H2_normalized_lifetime": 0.03160832137086272
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039368749750899795,
+      "first_H2_normalized_lifetime": 0.026249789889390845
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04264146000380841,
+      "first_H2_normalized_lifetime": 0.02649366180381073
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04238679907251961,
+      "first_H2_normalized_lifetime": 0.028965410618518202
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03803997677674635,
+      "first_H2_normalized_lifetime": 0.029786444892498126
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0420269606754122,
+      "first_H2_normalized_lifetime": 0.027667340592609644
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03983435672653957,
+      "first_H2_normalized_lifetime": 0.026113378739818414
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04070541388772435,
+      "first_H2_normalized_lifetime": 0.02676493419186136
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03888196962139224,
+      "first_H2_normalized_lifetime": 0.02543269879047815
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04155974692227673,
+      "first_H2_normalized_lifetime": 0.02764515523363639
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040258142892571624,
+      "first_H2_normalized_lifetime": 0.030845508281317484
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0420305981928654,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04232148434908141,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040271686171464524,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04185704000751551,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042516830639719595,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040398759968523504,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04417919662093974,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04045845345704993,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040712939159053003,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040335574761857965,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04156109334873798,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04032603645816582,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04164165814385445,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.037594363178529815,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04118194501012508,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.044101480003527954,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038833853040355436,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04353424455054985,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0414848859470673,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.044456276250013214,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03789998703879309,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04108792041879195,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04287538775033421,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04067480678797225,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04210787818562998,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03935929894374948,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03861820476209167,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04017029633236775,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038487204610270616,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04033075537598686,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04058915908538191,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03956896717478747,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04145792868144833,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.037692755366599745,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04072504806160217,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039924803002331595,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0413259522091842,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03892847600539357,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04185823028534267,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04095421513138297,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04144712181574401,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04282758488068049,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0405034406624564,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04114383207201626,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042998501612547826,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03971005617126639,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04133382740120013,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03944970873853596,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03933306037583305,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.044996110061252446,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03870222047590961,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04369409111480593,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04580687919291743,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039407883794422574,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038997195905229896,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04056257447775619,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04280619900037614,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03854657490085268,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03970413037072434,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03804111887874542,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03898615153406385,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03920166377493683,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042194145110585037,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04333108817082166,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042773105618930496,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.045150475109864245,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.037787294780777005,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04074333047403672,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04422392201966681,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.041587151320020506,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04101559826086384,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04405632244232076,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04047671044129599,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03781270938449208,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04057398433813334,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04119950946219152,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039439516516087895,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04268561631726399,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.041147270320273904,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039979305070569224,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04099821793159599,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038664438245395644,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039450369307425535,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.037644099311327714,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03961843360769396,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04038042917540383,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04370797751805346,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04009829993071905,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03959182224555222,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039771323386745654,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03889173475820438,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03991666466038779,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03960570792121094,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042446087988299026,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0398682180349601,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03923061762173535,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.041392918536092116,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04119275893667581,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038944502225533674,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039285419121572206,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03936922285597193,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04221259170043842,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04323217750416765,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03989020671875387,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04399308172160108,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04101641856760531,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04413351346197905,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04182487686568196,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04174465483740246,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04100752617806717,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.041340807228574916,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04404494023589411,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0444967908842318,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039228286351940846,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040036086817928446,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03928483573898402,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04571063714291706,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04079169853274325,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04006903241379,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03925914165537213,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04276490206556626,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04065226506691706,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.042790860690044015,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03975541976427296,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04030713765080734,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04232729958210791,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03863004481871751,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03889145208931583,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04446794235436011,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03983936496236866,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03761616569767341,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04045768142588114,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04040790664827115,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04015057820089103,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04065440705640318,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04527149359695868,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.0397017701554097,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04162349950513209,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04029599199954186,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.038933336984464724,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04081959592768707,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03969922893901971,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04251137740978884,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04226655788153965,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.037954048024324435,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04642908319869082,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039987578397502374,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.045802206475910906,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.043129642126377224,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.043047422148191496,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040653424349526,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.039417656652786556,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04003860549136702,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03812139166346157,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.03898687177915253,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040473587090260006,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040419136231156096,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.040635858738643296,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04164843479963503,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    },
+    {
+      "score": 0.0,
+      "signature_pass": false,
+      "second_H1_normalized_lifetime": 0.04046266150997644,
+      "first_H2_normalized_lifetime": null,
+      "H2_computed": false
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "cluster": -1,
+    "n": 635,
+    "grid_score_median": -0.0005865076164163242,
+    "band_concentration_median": 0.19149574843043288,
+    "band_fraction": 0.01889763779527559,
+    "orientation_coherence": 0.04232386239365396,
+    "angle_deg": 71.53899090388845,
+    "frequency_median": 1.5206906325745548,
+    "frequency_CV": 0.40815036812430583
+  },
+  {
+    "cluster": 0,
+    "n": 46,
+    "grid_score_median": 0.012666000795177126,
+    "band_concentration_median": 0.23903466733357714,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.16483959521876165,
+    "angle_deg": 97.56010720229305,
+    "frequency_median": 1.6007810593582121,
+    "frequency_CV": 0.30252369401741985
+  },
+  {
+    "cluster": 1,
+    "n": 51,
+    "grid_score_median": 0.046268948965672047,
+    "band_concentration_median": 0.20351241334946116,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.049293505861053626,
+    "angle_deg": 101.64423496524753,
+    "frequency_median": 1.6007810593582121,
+    "frequency_CV": 0.22120333395324038
+  },
+  {
+    "cluster": 2,
+    "n": 72,
+    "grid_score_median": -0.07648453057873134,
+    "band_concentration_median": 0.216061320531581,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.22042299489072575,
+    "angle_deg": 9.729455011487087,
+    "frequency_median": 1.6007810593582121,
+    "frequency_CV": 0.2912144839433192
+  },
+  {
+    "cluster": 3,
+    "n": 46,
+    "grid_score_median": -0.03627883793096018,
+    "band_concentration_median": 0.36676902224147323,
+    "band_fraction": 0.2608695652173913,
+    "orientation_coherence": 0.35694996398681816,
+    "angle_deg": 101.43872492542604,
+    "frequency_median": 2.7950849718747373,
+    "frequency_CV": 0.28477582745426155
+  },
+  {
+    "cluster": 4,
+    "n": 40,
+    "grid_score_median": -0.007669368031561305,
+    "band_concentration_median": 0.1904055764975786,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.12682459372183963,
+    "angle_deg": 97.98007922386397,
+    "frequency_median": 1.5103453162872773,
+    "frequency_CV": 0.10309720833931078
+  },
+  {
+    "cluster": 5,
+    "n": 31,
+    "grid_score_median": -0.03044547365249546,
+    "band_concentration_median": 0.2033561040604496,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.14440240134910584,
+    "angle_deg": 26.343666468218515,
+    "frequency_median": 1.5206906325745548,
+    "frequency_CV": 0.2062596361886158
+  },
+  {
+    "cluster": 6,
+    "n": 30,
+    "grid_score_median": -9.042923468705923e-05,
+    "band_concentration_median": 0.16657551026954814,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.3649173018076592,
+    "angle_deg": 52.04837023729535,
+    "frequency_median": 1.6007810593582121,
+    "frequency_CV": 0.21165413390037613
+  },
+  {
+    "cluster": 7,
+    "n": 46,
+    "grid_score_median": 0.1243284082848353,
+    "band_concentration_median": 0.21702400182989928,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.06022853334657939,
+    "angle_deg": 114.99618283358492,
+    "frequency_median": 1.9597538567703072,
+    "frequency_CV": 0.2786785030806412
+  },
+  {
+    "cluster": 8,
+    "n": 36,
+    "grid_score_median": 0.03067404452739383,
+    "band_concentration_median": 0.17887329368270344,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.1304935987974959,
+    "angle_deg": 173.130501992768,
+    "frequency_median": 1.6007810593582121,
+    "frequency_CV": 0.17948405802499903
+  },
+  {
+    "cluster": 9,
+    "n": 34,
+    "grid_score_median": 0.032738674644737495,
+    "band_concentration_median": 0.2209833823050418,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.061938848966704776,
+    "angle_deg": 146.25282759763033,
+    "frequency_median": 1.8776690283543291,
+    "frequency_CV": 0.2642914467992349
+  },
+  {
+    "cluster": 10,
+    "n": 30,
+    "grid_score_median": -0.0018239533238366553,
+    "band_concentration_median": 0.17601473408721902,
+    "band_fraction": 0.0,
+    "orientation_coherence": 0.3820137201419784,
+    "angle_deg": 81.82306883507879,
+    "frequency_median": 1.5103453162872773,
+    "frequency_CV": 0.12596546661864788
+  }
+]

@@ -1,0 +1,151 @@
+{
+  "source": "official_ganguli_pretrained",
+  "condition": "random_foraging",
+  "split": "validation",
+  "observed": {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.20834768855792193,
+    "first_H2_normalized_lifetime": 0.15925741624974446,
+    "H1_second_to_third_ratio": 1.5306852858957476,
+    "H2_first_to_second_ratio": 1.9696401009383346,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      563,
+      431
+    ],
+    "n_input": 4096,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5044522285461426,
+    "distance_scale": 1.5044522285461426,
+    "seconds": 0.836263399978634
+  },
+  "sensitivity": [
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.20834768855792193,
+      "first_H2_normalized_lifetime": 0.15925741624974446,
+      "H1_second_to_third_ratio": 1.5306852858957476,
+      "H2_first_to_second_ratio": 1.9696401009383346,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        384,
+        563,
+        431
+      ],
+      "n_input": 4096,
+      "landmarks": 384,
+      "field": 2,
+      "metric": "euclidean",
+      "threshold": 1.5044522285461426,
+      "distance_scale": 1.5044522285461426,
+      "seconds": 0.8527428999659605,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.21393855388606733,
+      "first_H2_normalized_lifetime": 0.1775551146146283,
+      "H1_second_to_third_ratio": 1.6121296496127113,
+      "H2_first_to_second_ratio": 1.8422640072341139,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        761,
+        641
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 47,
+      "metric": "euclidean",
+      "threshold": 1.500514030456543,
+      "distance_scale": 1.500514030456543,
+      "seconds": 2.3259201000328176,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.20175029223239643,
+      "first_H2_normalized_lifetime": 0.29649102951368234,
+      "H1_second_to_third_ratio": 1.3598513831158536,
+      "H2_first_to_second_ratio": 1.7085824389541167,
+      "beta121_intervals": [],
+      "longest_beta121_interval_normalized": 0.0,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        384,
+        581,
+        525
+      ],
+      "n_input": 4096,
+      "landmarks": 384,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.0490845441818237,
+      "distance_scale": 1.0490845441818237,
+      "seconds": 0.903240800020285,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": true,
+      "score": 0.3283611265487575,
+      "second_H1_normalized_lifetime": 0.3283611265487575,
+      "first_H2_normalized_lifetime": 0.5296380439354602,
+      "H1_second_to_third_ratio": 3.251367926793718,
+      "H2_first_to_second_ratio": 3.555664936967909,
+      "beta121_intervals": [
+        [
+          0.27866441011428833,
+          0.42706435918807983
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.14041861332348532,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        384,
+        350,
+        139
+      ],
+      "n_input": 4096,
+      "landmarks": 384,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.0568395853042603,
+      "distance_scale": 1.0568395853042603,
+      "seconds": 0.7972490999964066,
+      "representation": "PCA6"
+    }
+  ]
+}

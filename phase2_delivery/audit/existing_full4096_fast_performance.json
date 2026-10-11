@@ -1,0 +1,11 @@
+{
+  "n": 2048,
+  "seed": 72400,
+  "mean_error_m": 0.08855622261762619,
+  "final_error_m": 0.05919341370463371,
+  "decoder_floor_m": 0.043236732482910156,
+  "zero_input_error_m": 0.23046831786632538,
+  "shuffled_input_error_m": 0.29908713698387146,
+  "negative_initial_fraction": 0.369193434715271,
+  "zero_fraction_step20": 0.9780733585357666
+}

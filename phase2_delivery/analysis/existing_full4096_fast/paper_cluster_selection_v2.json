@@ -1,0 +1,11 @@
+{
+  "source": "existing_full4096_fast",
+  "selection_uses_only_discovery": true,
+  "selection_uses_topology": false,
+  "eligible_clusters": [],
+  "all_eligible_triplets": [],
+  "chosen_triplet": null,
+  "neurons": 0,
+  "mask_sha256": "e734dac55ea9fbbe782af2d8c02c3c5992131906228afb2aaaf137d6f3ed74db",
+  "protocol_sha256": "d25ae5fb7256edd9fdee31d7b2cbe8734f357e6b351505756e9cdfbbb6360b69"
+}

@@ -1,17 +1,18 @@
-# 神经表征流形动力学 · 第一阶段
+# 人工 RNN 环面拓扑验证 · 第二阶段
 
-实际运行的完整神经激活演化数据：作者完整规模架构的本地训练变体，不能视为严格论文复现。
+**结果范围：公开 Sorscher RNN 的 483 单元子群，在静止输入、20 步终态获得与二维环面一致的原空间持久拓扑证据。随机运动原始状态和全部4096单元整体没有通过同样验收。**
 
-ZIP 内的全部文件夹与文件原样位于 [phase1_delivery/](phase1_delivery/)，含完整原始张量、模型权重、代码、配置、随机种子、验证结果、SHA256 和统一坐标系 3D 投影。
+两个独立留出集各8192初位，H0/H1/H2与 `(1,2,1)` 相符；768/1024代表点及域47/2检查一致。原199次检验 Holm p=0.05；999次独立随机化精度复核，两组均无超越，p=0.001，保守十倍校正p=0.01。不是只靠PCA/UMAP图片，也不宣称严格复现Schøyen三环境模型或证明全局数学同胚。
 
-- 核心：`H[21, 8192, 4096]`，初态加 20 个递归步骤，四类受控运动。
-- 探索：`H[161, 1024, 4096]`，与核心按 sample_id 配对；40/80/160 步为训练时域外探索。
-- 独立测试平均定位误差 8.70cm，终点 5.95cm；完整重放验证通过。
-- 激活强稀疏，长时域性能下降；未建立环面或统一大流形存在性的证据。
+![原始空间持久同调与随机化证据](phase2_delivery/figures/raw_torus_evidence.png)
 
-## 获取完整数据
+[完整说明](phase2_delivery/README.md) · [方法、失败记录与边界](phase2_delivery/METHODS.md) · [统计表](phase2_delivery/STATISTICAL_SUMMARY.csv) · [全部第二阶段文件](phase2_delivery/)
 
-大型 HDF5 和模型权重使用 Git LFS，安装 Git LFS 后克隆会取得原始文件。没有 Release 附件。
+完整原始数据、模型权重、原训练失败基线、代码、实验协议、随机种子、哈希和科研图均在 `phase2_delivery/`。逐步完整张量为 `H[21,2048,4096]`，固定子群为 `candidate_H[21,2048,483]`。
+
+## 获取全部数据
+
+大文件通过Git LFS直接纳入仓库，没有Release。
 
 ```bash
 git lfs install
@@ -20,8 +21,6 @@ cd neural-manifold-dynamics-phase1
 git lfs pull
 ```
 
-[完整说明和复算命令](phase1_delivery/README.md) · [数据方法](phase1_delivery/METHODS.md) · [数据清单](phase1_delivery/datasets/full4096_fast/manifest.json) · [结果](phase1_delivery/RESULTS.json)
+本轮未新增长训练；两个公开项目的示例权重相同，不算两个训练种子。已有公开模型提供了条件性的存在证据，原本地缩短训练模型作为失败对照重新封装。
 
-交互图 `phase1_delivery/analysis/full4096_fast/shared_pca_3d.html` 可在本地浏览器打开；仅为统一 PCA 投影，非真实流形形变证据。
-
-来源：[Schøyen et al. (2023)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10589895/) · [作者 RNN 代码](https://github.com/bioAI-Oslo/emergent-grid-cells)。原作者 MIT 许可证保留在交付目录。
+旧第一阶段目录已从当前发布分支移除；历史提交不重写。科研图、交互3D和所有原始分块都可复算。本轮没有拟合测地流或其他几何动力学算子。

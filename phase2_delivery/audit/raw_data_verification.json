@@ -1,0 +1,4034 @@
+{
+  "status": "passed",
+  "files": 575,
+  "records": [
+    {
+      "path": "data/existing_full4096_fast/chunk_000000_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000128_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000256_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000384_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000512_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000640_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000768_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_000896_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001024_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001152_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001280_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001408_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001536_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001664_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001792_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_001920_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002048_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002176_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002304_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002432_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002560_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002688_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002816_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_002944_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003072_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003200_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003328_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003456_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003584_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003712_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003840_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_003968_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004096_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004224_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004352_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004480_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004608_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004736_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004864_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_004992_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005120_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005248_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005376_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005504_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005632_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005760_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_005888_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006016_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006144_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006272_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006400_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006528_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006656_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006784_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_006912_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007040_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007168_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007296_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007424_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007552_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007680_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007808_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_007936_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/existing_full4096_fast/chunk_008064_008192.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008192.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008320.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008448.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008576.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008704.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008832.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_008960.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009088.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009216.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009344.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009472.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009600.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009728.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009856.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/discovery_009984.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/validation_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/confirmation_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/stationary_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/timewise/random_foraging_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_stationary_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/validation_random_foraging_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_stationary_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v2/confirmation_random_foraging_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 0.0
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.98377799987793e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.611248970031738e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1324882507324219e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.046627044677734e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.046627044677734e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.98377799987793e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.2516975402832031e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.98377799987793e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1026859283447266e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.015202522277832e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.313225746154785e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.791685104370117e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1175870895385742e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 7.897615432739258e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.2814998626708984e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.419156074523926e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 7.748603820800781e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1175870895385742e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.195638656616211e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.791685104370117e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1026859283447266e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1026859283447266e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.046627044677734e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0281801223754883e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.164214134216309e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 7.897615432739258e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.791685104370117e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1622905731201172e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1771917343139648e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.313225746154785e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.313225746154785e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.195638656616211e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1324882507324219e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1324882507324219e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_stationary_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/validation_random_foraging_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000000.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.046627044677734e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000128.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000256.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000384.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1473894119262695e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000512.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000640.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.791685104370117e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000768.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_000896.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0281801223754883e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001024.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001152.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001280.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0579824447631836e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1026859283447266e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001408.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001536.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.791685104370117e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001664.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1920928955078125e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001792.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0579824447631836e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_001920.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.98377799987793e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002048.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002176.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002304.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0207295417785645e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002432.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002560.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002688.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002816.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 7.599592208862305e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_002944.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0281801223754883e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003072.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003200.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003328.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0281801223754883e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003456.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003584.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003712.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003840.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1026859283447266e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_003968.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004096.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.568167686462402e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004224.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.866190910339355e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004352.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004480.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004608.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004736.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004864.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_004992.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005120.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.3113021850585938e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005248.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005376.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.2814998626708984e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005504.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005632.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005760.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.043081283569336e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1622905731201172e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_005888.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006016.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006144.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006272.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.195638656616211e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.164214134216309e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006400.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006528.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006656.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.642673492431641e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006784.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.866190910339355e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_006912.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.387731552124023e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0132789611816406e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007040.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.685754776000977e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.834766387939453e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007168.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.493661880493164e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007296.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0952353477478027e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007424.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.3709068298339844e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.0728836059570312e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007552.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.940696716308594e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.195638656616211e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007680.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007808.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 1.1622905731201172e-06
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 8.344650268554688e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_007936.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.5367431640625e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_stationary_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.08970832824707e-07
+    },
+    {
+      "path": "data/official_ganguli_pretrained/v3/confirmation_random_foraging_008064.h5",
+      "hash_verified": true,
+      "all_neurons": true,
+      "replay_max_error": 0.0,
+      "readout_max_error": 9.238719940185547e-07
+    }
+  ],
+  "all_manifest_hashes_verified": true,
+  "all_raw_states_replayed": true,
+  "all_inputs_aligned": true
+}

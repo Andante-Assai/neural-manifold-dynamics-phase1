@@ -1,0 +1,23 @@
+{
+ "version":"phase2-paper-cluster-refinement-v2",
+ "reason":"v1 pooled individual Fourier-band cells without requiring within-cluster direction coherence. The raw-state v1 test failed; PCA6-only topology was insufficient. Use original paper-style rotational clusters with deterministic phenotype refinement, not PH-guided choice.",
+ "previous_negative_tests_preserved":true,
+ "selection_data":"ONLY original discovery ratemaps and their 360 SAC rotational correlations; validation/confirmation PH not used to choose clusters",
+ "eligible_rotation_clusters":{"min_units":30,"band_majority":"at least half members have v1-defined axial Fourier power concentration >=0.5","within_cluster_axial_circular_std_max_deg":15,"frequency_CV_max":0.2},
+ "eligible_triplets":{"axial_circular_gaps_deg":"60 +/- 15", "frequency_medians_within_20_percent_of_triplet_mean":true,"signed_wavevector_closure_error_max_fraction":0.1},
+ "choice":"largest union among all eligible triplets, tie break cluster-label lexicographic. Cluster IDs are discovered, not hard-coded; no topology values read.",
+ "fresh_validation_seed":72502,"fresh_confirmation_seed":72503,
+ "N_independent_initial_positions_per_split":4096,
+ "conditions":["stationary_20_steps","random_foraging_20_steps"],
+ "condition_scope":"report separately; stationary success cannot be relabeled as random-motion raw-state success",
+ "all_4096_units_retained":true,
+ "fresh_raw_recording_steps":[0,20],
+ "all_20_inputs_and_positions_retained":true,
+ "topology_rule":"same raw Euclidean statistic, H0/H1/H2 fields 47 and 2, 384/512 farthest-point landmarks, median-distance filtration cutoff and effect-size thresholds as v1",
+ "primary_nulls":199,
+ "p_value":"plus-one empirical permutation test; zero nonnegative statistic implies p=1 and 19 diagnostic draws",
+ "multiple_testing":"Holm across six source/method/condition slots per heldout split: v1 two sources; v2 two sources x two conditions. Unavailable candidates assigned p=1. Accept a condition only if BOTH fresh splits pass adjusted p<=0.05 and field/landmark sensitivity.",
+ "no_parameter_changes_after_fresh_PH":true,
+ "interpretation":"torus-consistent raw subpopulation structure in tested condition, not all-neuron torus, not proof of mathematical homeomorphism, not proof of biological equivalence",
+ "fallback_if_no_v2_success":"two newly initialized original-hyperparameter training seeds, report actual budgets; do not silently discard failures"
+}

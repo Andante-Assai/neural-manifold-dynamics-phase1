@@ -1,0 +1,3 @@
+split,n,neurons,primary_landmarks,field,field2_and_1024_landmarks_pass,second_H1_normalized_lifetime,first_H2_normalized_lifetime,beta121_interval_normalized,primary_B,primary_p,primary_Holm_p,precision_B,precision_p,conservative_precision_p_times10,null_exceedances,conservative_95_percent_tail_upper_times10
+validation,8192,483,768,47,True,0.3746229823662243,0.3038430101928543,0.11568661803305498,199,0.005,0.05,999,0.001,0.01,0,0.0299423930166436
+confirmation,8192,483,768,47,True,0.3736464025795958,0.3432096716798447,0.10467432328642658,199,0.005,0.05,999,0.001,0.01,0,0.0299423930166436

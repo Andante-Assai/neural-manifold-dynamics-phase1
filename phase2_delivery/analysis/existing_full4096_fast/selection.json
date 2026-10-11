@@ -1,0 +1,33 @@
+{
+  "source": "existing_full4096_fast",
+  "discovery_only": true,
+  "used_topology": false,
+  "active_count": 1100,
+  "bias_excluded_count": 3,
+  "accepted_count": 1097,
+  "grid_like_count": 71,
+  "primary_candidate_count": 0,
+  "candidate_reason": "insufficient band units",
+  "band_count": 24,
+  "band_frequency_median": 2.850438562747845,
+  "orientation_check": {},
+  "rotation_clusters": {
+    "-1": 635,
+    "0": 46,
+    "1": 51,
+    "2": 72,
+    "3": 46,
+    "4": 40,
+    "5": 31,
+    "6": 30,
+    "7": 46,
+    "8": 36,
+    "9": 34,
+    "10": 30
+  },
+  "computational_seconds": 46.728655499988236,
+  "mask_file_sha256": "e58e476408f378ca48d85c6b26a9e7905fb12097fd5e5e8fa782e05545df5ac8",
+  "protocol_sha256": "8149f8bb65bd66e8061525fc39601310612d4de8f26afbcceb00caf00f2e4fb5",
+  "missing_discovery_bins": 1,
+  "no_manual_cluster_merging": true
+}

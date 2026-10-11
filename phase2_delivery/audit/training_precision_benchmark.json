@@ -1,0 +1,23 @@
+[
+  {
+    "mode": "float32_strict",
+    "median_step_s": 0.08034829999087378,
+    "finite": true,
+    "peak_allocated_bytes": 1183996416,
+    "peak_reserved_bytes": 1493172224
+  },
+  {
+    "mode": "float32_TF32",
+    "median_step_s": 0.059864800015930086,
+    "finite": true,
+    "peak_allocated_bytes": 1183325184,
+    "peak_reserved_bytes": 1577058304
+  },
+  {
+    "mode": "autocast_float16",
+    "median_step_s": 0.03884510003263131,
+    "finite": true,
+    "peak_allocated_bytes": 832900096,
+    "peak_reserved_bytes": 1132462080
+  }
+]

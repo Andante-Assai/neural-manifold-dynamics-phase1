@@ -1,0 +1,6 @@
+{
+  "source": "existing_full4096_fast",
+  "status": "no_frozen_candidate",
+  "accept": false,
+  "explanation": "No discovery-only geometry-qualified candidate; no torus claim. This does not prove that all possible subpopulations lack a torus."
+}

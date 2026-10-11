@@ -1,1 +1,0 @@
-{"name":"pilot256_fast","Ng":256,"Np":512,"seed":20261011,"place_seed":0,"train_seed":3301,"lr":0.001,"weight_decay":0.000001,"batch_size":200,"log_every":500,"min_steps":2000,"training_horizon":20,"environments":1,"recipe_status":"accelerated feasibility experiment, NOT original paper training recipe"}

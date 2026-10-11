@@ -1,0 +1,1520 @@
+[
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.20301565011084738,
+    "first_H2_normalized_lifetime": 0.1207894106539708,
+    "H1_second_to_third_ratio": 1.0869227871096736,
+    "H2_first_to_second_ratio": 1.1120204867991905,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      483,
+      388
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4543125629425049,
+    "distance_scale": 1.4543125629425049,
+    "seconds": 2.07994000002509,
+    "population": "all_neurons",
+    "n_cells": 4096,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 15.579547882080078,
+      "participation_ratio": 13.676225662231445,
+      "points": 384,
+      "neurons": 4096
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.21570538591418545,
+    "first_H2_normalized_lifetime": 0.31367061643319855,
+    "H1_second_to_third_ratio": 1.0129950744475884,
+    "H2_first_to_second_ratio": 1.636527640783261,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      492,
+      410
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0416791439056396,
+    "distance_scale": 1.0416791439056396,
+    "seconds": 1.9403522000066005,
+    "population": "all_neurons",
+    "n_cells": 4096,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.1832392703953024,
+    "first_H2_normalized_lifetime": 0.14635069703803374,
+    "H1_second_to_third_ratio": 1.009768173501718,
+    "H2_first_to_second_ratio": 1.2855454480465462,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      484,
+      363
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4720945358276367,
+    "distance_scale": 1.4720945358276367,
+    "seconds": 2.031693199998699,
+    "population": "grid_like",
+    "n_cells": 2105,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 13.973562240600586,
+      "participation_ratio": 14.056376457214355,
+      "points": 384,
+      "neurons": 2105
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.21498660099818734,
+    "first_H2_normalized_lifetime": 0.2855280865251922,
+    "H1_second_to_third_ratio": 1.0573157770495292,
+    "H2_first_to_second_ratio": 1.865322395735765,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      496,
+      384
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0580167770385742,
+    "distance_scale": 1.0580167770385742,
+    "seconds": 1.6797720000031404,
+    "population": "grid_like",
+    "n_cells": 2105,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.16167890444998947,
+    "first_H2_normalized_lifetime": 0.13260208149462374,
+    "H1_second_to_third_ratio": 1.0328444416354634,
+    "H2_first_to_second_ratio": 1.2911323521894869,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      575,
+      491
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.476034164428711,
+    "distance_scale": 1.476034164428711,
+    "seconds": 2.0434931999770924,
+    "population": "primary_candidate",
+    "n_cells": 970,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": true,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 23.256458282470703,
+      "participation_ratio": 13.397590637207031,
+      "points": 384,
+      "neurons": 970
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2021030177730944,
+    "first_H2_normalized_lifetime": 0.2870455862580162,
+    "H1_second_to_third_ratio": 1.173222383853735,
+    "H2_first_to_second_ratio": 1.181665031266825,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      591,
+      534
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.052762746810913,
+    "distance_scale": 1.052762746810913,
+    "seconds": 2.0664025000296533,
+    "population": "primary_candidate",
+    "n_cells": 970,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2085666859660414,
+    "first_H2_normalized_lifetime": 0.1502185881969,
+    "H1_second_to_third_ratio": 1.0247668543498478,
+    "H2_first_to_second_ratio": 1.0390597360438432,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      401,
+      241
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4392054080963135,
+    "distance_scale": 1.4392054080963135,
+    "seconds": 1.7439727999735624,
+    "population": "rotation_cluster_0",
+    "n_cells": 363,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 12.95664119720459,
+      "participation_ratio": 14.077249526977539,
+      "points": 384,
+      "neurons": 363
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2704162277125775,
+    "first_H2_normalized_lifetime": 0.26508878336726827,
+    "H1_second_to_third_ratio": 1.0779906987510701,
+    "H2_first_to_second_ratio": 1.1883751039403396,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      411,
+      259
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0511113405227661,
+    "distance_scale": 1.0511113405227661,
+    "seconds": 1.995910300000105,
+    "population": "rotation_cluster_0",
+    "n_cells": 363,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.17953864357500157,
+    "first_H2_normalized_lifetime": 0.0260926048905068,
+    "H1_second_to_third_ratio": 1.0589968021759482,
+    "H2_first_to_second_ratio": 1.0543421839426839,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      114,
+      4
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5265398025512695,
+    "distance_scale": 1.5265398025512695,
+    "seconds": 2.261876199976541,
+    "population": "rotation_cluster_1",
+    "n_cells": 258,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 7.982194423675537,
+      "participation_ratio": 4.856591701507568,
+      "points": 384,
+      "neurons": 258
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.4667773315834544,
+    "first_H2_normalized_lifetime": 0.18020974076254725,
+    "H1_second_to_third_ratio": 1.015712996297472,
+    "H2_first_to_second_ratio": 1.0317403744676004,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      6
+    ],
+    "bar_counts": [
+      384,
+      194,
+      70
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 0.8866151571273804,
+    "distance_scale": 0.8866151571273804,
+    "seconds": 2.2112877999898046,
+    "population": "rotation_cluster_1",
+    "n_cells": 258,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.18979510143773157,
+    "first_H2_normalized_lifetime": 0.07345405678430517,
+    "H1_second_to_third_ratio": 1.0122263795319273,
+    "H2_first_to_second_ratio": 1.0204718334123553,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      459,
+      321
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4059289693832397,
+    "distance_scale": 1.4059289693832397,
+    "seconds": 1.9320503000053577,
+    "population": "rotation_cluster_2",
+    "n_cells": 349,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 14.131977081298828,
+      "participation_ratio": 7.910123348236084,
+      "points": 384,
+      "neurons": 349
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.27756765761686336,
+    "first_H2_normalized_lifetime": 0.25541332904191894,
+    "H1_second_to_third_ratio": 1.19813263691509,
+    "H2_first_to_second_ratio": 1.9375013984142657,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      438,
+      347
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0103986263275146,
+    "distance_scale": 1.0103986263275146,
+    "seconds": 1.565523499972187,
+    "population": "rotation_cluster_2",
+    "n_cells": 349,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.18463836270795586,
+    "first_H2_normalized_lifetime": 0.15937901498929335,
+    "H1_second_to_third_ratio": 1.0055789769722545,
+    "H2_first_to_second_ratio": 1.1234726764638692,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      387,
+      189
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.447439193725586,
+    "distance_scale": 1.447439193725586,
+    "seconds": 1.709060400025919,
+    "population": "rotation_cluster_3",
+    "n_cells": 84,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 13.628265380859375,
+      "participation_ratio": 8.136585235595703,
+      "points": 384,
+      "neurons": 84
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.22445142495797066,
+    "first_H2_normalized_lifetime": 0.22500322677545775,
+    "H1_second_to_third_ratio": 1.0297243521627502,
+    "H2_first_to_second_ratio": 1.0223913993398348,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      401,
+      256
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0270371437072754,
+    "distance_scale": 1.0270371437072754,
+    "seconds": 1.651929999992717,
+    "population": "rotation_cluster_3",
+    "n_cells": 84,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.12898419831809024,
+    "first_H2_normalized_lifetime": 0.07648807565972512,
+    "H1_second_to_third_ratio": 1.0440818050575484,
+    "H2_first_to_second_ratio": 1.1359034675510455,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      493,
+      296
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4460961818695068,
+    "distance_scale": 1.4460961818695068,
+    "seconds": 1.7113753000157885,
+    "population": "rotation_cluster_5",
+    "n_cells": 212,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 19.52566146850586,
+      "participation_ratio": 4.724937438964844,
+      "points": 384,
+      "neurons": 212
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.14318510914808744,
+    "first_H2_normalized_lifetime": 0.0984685011485054,
+    "H1_second_to_third_ratio": 1.0385114719282993,
+    "H2_first_to_second_ratio": 1.0389022970182173,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      496,
+      362
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0039585828781128,
+    "distance_scale": 1.0039585828781128,
+    "seconds": 1.7464916000026278,
+    "population": "rotation_cluster_5",
+    "n_cells": 212,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.19224695048196958,
+    "first_H2_normalized_lifetime": 0.12291410325879644,
+    "H1_second_to_third_ratio": 1.067041491966349,
+    "H2_first_to_second_ratio": 1.2431364224653154,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      468,
+      292
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4625577926635742,
+    "distance_scale": 1.4625577926635742,
+    "seconds": 1.7412722000153735,
+    "population": "rotation_cluster_6",
+    "n_cells": 177,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 16.540285110473633,
+      "participation_ratio": 10.070570945739746,
+      "points": 384,
+      "neurons": 177
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.21027895003192407,
+    "first_H2_normalized_lifetime": 0.22845149204579013,
+    "H1_second_to_third_ratio": 1.0495255208522416,
+    "H2_first_to_second_ratio": 1.23730521731443,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      461,
+      334
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.040708303451538,
+    "distance_scale": 1.040708303451538,
+    "seconds": 1.5888317999779247,
+    "population": "rotation_cluster_6",
+    "n_cells": 177,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.19172290587904564,
+    "first_H2_normalized_lifetime": 0.10448659236621839,
+    "H1_second_to_third_ratio": 1.0627601685990544,
+    "H2_first_to_second_ratio": 1.277559807047394,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      341,
+      170
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.31455659866333,
+    "distance_scale": 1.31455659866333,
+    "seconds": 1.7036330999690108,
+    "population": "rotation_cluster_7",
+    "n_cells": 262,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 14.051587104797363,
+      "participation_ratio": 3.7346315383911133,
+      "points": 384,
+      "neurons": 262
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.24554374146688365,
+    "first_H2_normalized_lifetime": 0.3592282054186723,
+    "H1_second_to_third_ratio": 1.2514827616341266,
+    "H2_first_to_second_ratio": 1.211840261108198,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      316,
+      115
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0081241130828857,
+    "distance_scale": 1.0081241130828857,
+    "seconds": 1.6681810999871232,
+    "population": "rotation_cluster_7",
+    "n_cells": 262,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2225413013044734,
+    "first_H2_normalized_lifetime": 0.1695721819309843,
+    "H1_second_to_third_ratio": 1.0079230368171594,
+    "H2_first_to_second_ratio": 1.3249449717823267,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      428,
+      261
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.426483154296875,
+    "distance_scale": 1.426483154296875,
+    "seconds": 2.1678053999785334,
+    "population": "rotation_cluster_8",
+    "n_cells": 182,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 13.280604362487793,
+      "participation_ratio": 12.0570650100708,
+      "points": 384,
+      "neurons": 182
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.26304304727322053,
+    "first_H2_normalized_lifetime": 0.2589033541954039,
+    "H1_second_to_third_ratio": 1.1211573267485637,
+    "H2_first_to_second_ratio": 1.029454408194723,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      419,
+      249
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0510632991790771,
+    "distance_scale": 1.0510632991790771,
+    "seconds": 1.6800519000389613,
+    "population": "rotation_cluster_8",
+    "n_cells": 182,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.19060813779667599,
+    "first_H2_normalized_lifetime": 0.12019065509083898,
+    "H1_second_to_third_ratio": 1.0246355801594214,
+    "H2_first_to_second_ratio": 1.0388988706872082,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      405,
+      248
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4357504844665527,
+    "distance_scale": 1.4357504844665527,
+    "seconds": 2.0222692000097595,
+    "population": "rotation_cluster_9",
+    "n_cells": 111,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 12.760687828063965,
+      "participation_ratio": 12.524667739868164,
+      "points": 384,
+      "neurons": 111
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.26767534695838685,
+    "first_H2_normalized_lifetime": 0.27556494771623075,
+    "H1_second_to_third_ratio": 1.1186145109798278,
+    "H2_first_to_second_ratio": 1.1684612759656439,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      422,
+      267
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.047999382019043,
+    "distance_scale": 1.047999382019043,
+    "seconds": 1.8846815999713726,
+    "population": "rotation_cluster_9",
+    "n_cells": 111,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.20190614271167998,
+    "first_H2_normalized_lifetime": 0.08971394479087653,
+    "H1_second_to_third_ratio": 1.0010564425213124,
+    "H2_first_to_second_ratio": 1.0476344881295827,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      353,
+      200
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4210422039031982,
+    "distance_scale": 1.4210422039031982,
+    "seconds": 1.4959390999865718,
+    "population": "rotation_cluster_10",
+    "n_cells": 194,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 13.50373363494873,
+      "participation_ratio": 9.134321212768555,
+      "points": 384,
+      "neurons": 194
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.25877092070490276,
+    "first_H2_normalized_lifetime": 0.18774786694884085,
+    "H1_second_to_third_ratio": 1.0898190405775499,
+    "H2_first_to_second_ratio": 1.0051302214393558,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      371,
+      239
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.014484167098999,
+    "distance_scale": 1.014484167098999,
+    "seconds": 0.9298679000348784,
+    "population": "rotation_cluster_10",
+    "n_cells": 194,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.19690855933979673,
+    "first_H2_normalized_lifetime": 0.07140227951783461,
+    "H1_second_to_third_ratio": 1.1963553078086446,
+    "H2_first_to_second_ratio": 1.3227790225042133,
+    "beta121_intervals": [
+      [
+        0.9092274904251099,
+        0.9133340120315552
+      ],
+      [
+        0.9143803119659424,
+        0.9165123105049133
+      ],
+      [
+        0.9195029735565186,
+        0.9230632185935974
+      ],
+      [
+        0.9655055999755859,
+        0.9718669056892395
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.004568976323262877,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      274,
+      79
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.392282485961914,
+    "distance_scale": 1.392282485961914,
+    "seconds": 0.9251599999843165,
+    "population": "rotation_cluster_11",
+    "n_cells": 72,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 12.327034950256348,
+      "participation_ratio": 4.7941155433654785,
+      "points": 384,
+      "neurons": 72
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.22466778691821068,
+    "first_H2_normalized_lifetime": 0.2905509614674346,
+    "H1_second_to_third_ratio": 1.0501103207283933,
+    "H2_first_to_second_ratio": 2.5685065977812847,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      281,
+      104
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 0.9876542091369629,
+    "distance_scale": 0.9876542091369629,
+    "seconds": 0.9784930000314489,
+    "population": "rotation_cluster_11",
+    "n_cells": 72,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.21359796113075197,
+    "first_H2_normalized_lifetime": 0.11123567968336223,
+    "H1_second_to_third_ratio": 1.0043609151884214,
+    "H2_first_to_second_ratio": 1.5231237417693837,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      286,
+      102
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4436533451080322,
+    "distance_scale": 1.4436533451080322,
+    "seconds": 1.1431618999922648,
+    "population": "rotation_cluster_12",
+    "n_cells": 99,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 11.969803810119629,
+      "participation_ratio": 10.040550231933594,
+      "points": 384,
+      "neurons": 99
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.30472282917650784,
+    "first_H2_normalized_lifetime": 0.23006885373264194,
+    "H1_second_to_third_ratio": 1.2233660379355744,
+    "H2_first_to_second_ratio": 1.1760254031769657,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      285,
+      121
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0489156246185303,
+    "distance_scale": 1.0489156246185303,
+    "seconds": 0.8586911999736913,
+    "population": "rotation_cluster_12",
+    "n_cells": 99,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.3062064619768067,
+    "first_H2_normalized_lifetime": 0.20974967479338424,
+    "H1_second_to_third_ratio": 2.0937560040029473,
+    "H2_first_to_second_ratio": 2.254779208658477,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      427,
+      212
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4636931419372559,
+    "distance_scale": 1.4636931419372559,
+    "seconds": 0.8919653999619186,
+    "population": "rotation_cluster_13",
+    "n_cells": 216,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 16.368961334228516,
+      "participation_ratio": 9.634328842163086,
+      "points": 384,
+      "neurons": 216
+    }
+  },
+  {
+    "signature_pass": true,
+    "score": 0.4387263639461302,
+    "second_H1_normalized_lifetime": 0.4387263639461302,
+    "first_H2_normalized_lifetime": 0.510223882294431,
+    "H1_second_to_third_ratio": 2.704758643099745,
+    "H2_first_to_second_ratio": 2.582038053891926,
+    "beta121_intervals": [
+      [
+        0.48916399478912354,
+        0.5000998377799988
+      ],
+      [
+        0.5260177850723267,
+        0.6325122117996216
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.09768920106430862,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      439,
+      245
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.090135097503662,
+    "distance_scale": 1.090135097503662,
+    "seconds": 0.8293118999572471,
+    "population": "rotation_cluster_13",
+    "n_cells": 216,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.20052473375877253,
+    "first_H2_normalized_lifetime": 0.17069718079385116,
+    "H1_second_to_third_ratio": 1.0433868000035564,
+    "H2_first_to_second_ratio": 1.361933936272275,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      374,
+      152
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4999821186065674,
+    "distance_scale": 1.4999821186065674,
+    "seconds": 1.0040400000289083,
+    "population": "rotation_cluster_14",
+    "n_cells": 106,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 11.092040061950684,
+      "participation_ratio": 9.023091316223145,
+      "points": 384,
+      "neurons": 106
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.26895865344639525,
+    "first_H2_normalized_lifetime": 0.3236223652932395,
+    "H1_second_to_third_ratio": 1.0236729454185511,
+    "H2_first_to_second_ratio": 1.1735807623907835,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      353,
+      185
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0482988357543945,
+    "distance_scale": 1.0482988357543945,
+    "seconds": 0.9523692000075243,
+    "population": "rotation_cluster_14",
+    "n_cells": 106,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.19894567268500804,
+    "first_H2_normalized_lifetime": 0.058244656476098805,
+    "H1_second_to_third_ratio": 1.1157405525225539,
+    "H2_first_to_second_ratio": 1.174178884023403,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      267,
+      97
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.3813469409942627,
+    "distance_scale": 1.3813469409942627,
+    "seconds": 0.8521302999579348,
+    "population": "rotation_cluster_15",
+    "n_cells": 181,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 13.916626930236816,
+      "participation_ratio": 3.9163107872009277,
+      "points": 384,
+      "neurons": 181
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.22850531440358987,
+    "first_H2_normalized_lifetime": 0.09197003290917395,
+    "H1_second_to_third_ratio": 1.4122380033516,
+    "H2_first_to_second_ratio": 1.3120798233129183,
+    "beta121_intervals": [
+      [
+        0.5152676105499268,
+        0.5191702842712402
+      ],
+      [
+        0.5193792581558228,
+        0.5216809511184692
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.004049693792778586,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      264,
+      75
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 0.9636960029602051,
+    "distance_scale": 0.9636960029602051,
+    "seconds": 0.9062866999884136,
+    "population": "rotation_cluster_15",
+    "n_cells": 181,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.12532575622533712,
+    "first_H2_normalized_lifetime": 0.07261394257826541,
+    "H1_second_to_third_ratio": 1.0769965890378734,
+    "H2_first_to_second_ratio": 1.1574593581321722,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      434,
+      199
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4632363319396973,
+    "distance_scale": 1.4632363319396973,
+    "seconds": 1.0178434999543242,
+    "population": "rotation_cluster_16",
+    "n_cells": 98,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 21.32329750061035,
+      "participation_ratio": 4.704343318939209,
+      "points": 384,
+      "neurons": 98
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.12584720657224038,
+    "first_H2_normalized_lifetime": 0.08566347545561731,
+    "H1_second_to_third_ratio": 1.1466720543878555,
+    "H2_first_to_second_ratio": 1.0965646171909733,
+    "beta121_intervals": [
+      [
+        0.33048272132873535,
+        0.33540183305740356
+      ],
+      [
+        0.3375321626663208,
+        0.3439520001411438
+      ],
+      [
+        0.3486042618751526,
+        0.3587800860404968
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.0101353701990836,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      437,
+      268
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0039913654327393,
+    "distance_scale": 1.0039913654327393,
+    "seconds": 0.868981099978555,
+    "population": "rotation_cluster_16",
+    "n_cells": 98,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.09782023362305442,
+    "first_H2_normalized_lifetime": 0.05292949744844799,
+    "H1_second_to_third_ratio": 1.0978657498700046,
+    "H2_first_to_second_ratio": 1.0708125190481002,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      395,
+      179
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4679052829742432,
+    "distance_scale": 1.4679052829742432,
+    "seconds": 0.9095145000028424,
+    "population": "rotation_cluster_17",
+    "n_cells": 173,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 23.47306251525879,
+      "participation_ratio": 3.9799580574035645,
+      "points": 384,
+      "neurons": 173
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.07321575207220435,
+    "first_H2_normalized_lifetime": 0.04788043130779262,
+    "H1_second_to_third_ratio": 1.1114624401110267,
+    "H2_first_to_second_ratio": 1.0107906107672546,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      1
+    ],
+    "bar_counts": [
+      384,
+      441,
+      213
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0236059427261353,
+    "distance_scale": 1.0236059427261353,
+    "seconds": 0.981002599990461,
+    "population": "rotation_cluster_17",
+    "n_cells": 173,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.17584343614143158,
+    "first_H2_normalized_lifetime": 0.14292257952728876,
+    "H1_second_to_third_ratio": 1.0055604447329487,
+    "H2_first_to_second_ratio": 1.392810366326531,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      488,
+      331
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.4613041877746582,
+    "distance_scale": 1.4613041877746582,
+    "seconds": 0.9677162000443786,
+    "population": "rotation_cluster_18",
+    "n_cells": 192,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 20.229774475097656,
+      "participation_ratio": 10.901250839233398,
+      "points": 384,
+      "neurons": 192
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2151551424075556,
+    "first_H2_normalized_lifetime": 0.197554745245168,
+    "H1_second_to_third_ratio": 1.2130844369818985,
+    "H2_first_to_second_ratio": 1.1999017140843442,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      502,
+      369
+    ],
+    "n_input": 2048,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0519745349884033,
+    "distance_scale": 1.0519745349884033,
+    "seconds": 0.847617799998261,
+    "population": "rotation_cluster_18",
+    "n_cells": 192,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  }
+]

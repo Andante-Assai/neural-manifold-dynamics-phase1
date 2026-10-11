@@ -1,0 +1,207 @@
+{
+  "acceptance_by_condition": {
+    "stationary": true,
+    "random_foraging": false
+  },
+  "Holm_family_size": 10,
+  "all_method_attempts_accounted": true,
+  "tests": {
+    "validation": {
+      "v1:existing_full4096_fast:foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v1:official_ganguli_pretrained:foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:existing_full4096_fast:stationary": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:existing_full4096_fast:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:official_ganguli_pretrained:stationary": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:official_ganguli_pretrained:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:existing_full4096_fast:stationary": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:existing_full4096_fast:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:official_ganguli_pretrained:stationary": {
+        "raw_p": 0.005,
+        "Holm_p": 0.05
+      },
+      "v3:official_ganguli_pretrained:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      }
+    },
+    "confirmation": {
+      "v1:existing_full4096_fast:foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v1:official_ganguli_pretrained:foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:existing_full4096_fast:stationary": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:existing_full4096_fast:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v2:official_ganguli_pretrained:stationary": {
+        "raw_p": 0.005,
+        "Holm_p": 0.05
+      },
+      "v2:official_ganguli_pretrained:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:existing_full4096_fast:stationary": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:existing_full4096_fast:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      },
+      "v3:official_ganguli_pretrained:stationary": {
+        "raw_p": 0.005,
+        "Holm_p": 0.05
+      },
+      "v3:official_ganguli_pretrained:random_foraging": {
+        "raw_p": 1.0,
+        "Holm_p": 1.0
+      }
+    }
+  },
+  "source": "official_ganguli_pretrained",
+  "neuron_count": 483,
+  "all_neuron_population_torus_claim": false,
+  "Schoyen_three_environment_reproduction": false,
+  "strict_homeomorphism_proven": false,
+  "interpretation": "finite-sample torus-consistent raw subpopulation topology in the accepted condition only",
+  "stationary_raw_evidence": [
+    {
+      "split": "validation",
+      "n": 8192,
+      "neurons": 483,
+      "primary_landmarks": 768,
+      "field": 47,
+      "field2_and_1024_landmarks_pass": true,
+      "second_H1_normalized_lifetime": 0.3746229823662243,
+      "first_H2_normalized_lifetime": 0.3038430101928543,
+      "beta121_interval_normalized": 0.11568661803305498,
+      "primary_B": 199,
+      "primary_p": 0.005,
+      "primary_Holm_p": 0.05,
+      "precision_B": 999,
+      "precision_p": 0.001,
+      "conservative_precision_p_times10": 0.01,
+      "null_exceedances": 0,
+      "conservative_95_percent_tail_upper_times10": 0.0299423930166436
+    },
+    {
+      "split": "confirmation",
+      "n": 8192,
+      "neurons": 483,
+      "primary_landmarks": 768,
+      "field": 47,
+      "field2_and_1024_landmarks_pass": true,
+      "second_H1_normalized_lifetime": 0.3736464025795958,
+      "first_H2_normalized_lifetime": 0.3432096716798447,
+      "beta121_interval_normalized": 0.10467432328642658,
+      "primary_B": 199,
+      "primary_p": 0.005,
+      "primary_Holm_p": 0.05,
+      "precision_B": 999,
+      "precision_p": 0.001,
+      "conservative_precision_p_times10": 0.01,
+      "null_exceedances": 0,
+      "conservative_95_percent_tail_upper_times10": 0.0299423930166436
+    }
+  ],
+  "IID_intrinsic_dimensions": [
+    {
+      "split": "validation",
+      "condition": "stationary",
+      "n_IID_sampled": 4096,
+      "TwoNN_trimmed": 2.3333942890167236,
+      "Levina_Bickel": {
+        "10": 2.016089677810669,
+        "20": 2.2178051471710205,
+        "40": 2.7662248611450195
+      },
+      "note": "finite-neighborhood estimates can reflect thickness, overlapping sheets and curvature; FPS-based TwoNN in earlier diagnostics is sampling-biased"
+    },
+    {
+      "split": "validation",
+      "condition": "random_foraging",
+      "n_IID_sampled": 4096,
+      "TwoNN_trimmed": 5.283660888671875,
+      "Levina_Bickel": {
+        "10": 4.5332255363464355,
+        "20": 4.975454330444336,
+        "40": 5.339669227600098
+      },
+      "note": "finite-neighborhood estimates can reflect thickness, overlapping sheets and curvature; FPS-based TwoNN in earlier diagnostics is sampling-biased"
+    },
+    {
+      "split": "confirmation",
+      "condition": "stationary",
+      "n_IID_sampled": 4096,
+      "TwoNN_trimmed": 2.3635222911834717,
+      "Levina_Bickel": {
+        "10": 2.022989511489868,
+        "20": 2.212599992752075,
+        "40": 2.745042562484741
+      },
+      "note": "finite-neighborhood estimates can reflect thickness, overlapping sheets and curvature; FPS-based TwoNN in earlier diagnostics is sampling-biased"
+    },
+    {
+      "split": "confirmation",
+      "condition": "random_foraging",
+      "n_IID_sampled": 4096,
+      "TwoNN_trimmed": 4.859524250030518,
+      "Levina_Bickel": {
+        "10": 4.46276330947876,
+        "20": 4.863945007324219,
+        "40": 5.270549774169922
+      },
+      "note": "finite-neighborhood estimates can reflect thickness, overlapping sheets and curvature; FPS-based TwoNN in earlier diagnostics is sampling-biased"
+    }
+  ],
+  "full_step_H_shape": [
+    21,
+    2048,
+    4096
+  ],
+  "frozen_candidate_H_shape": [
+    21,
+    2048,
+    483
+  ],
+  "raw_chunk_count": 575,
+  "max_hidden_replay_error": 0.0,
+  "max_readout_replay_error": 1.3709068298339844e-06,
+  "new_training_executed": false,
+  "reason_no_new_training": "Validated public full inference weights already provide condition-specific evidence; no topology-guided retraining performed.",
+  "unique_training_checkpoints_in_comparison": 2,
+  "independent_training_seed_replication_claim": false
+}

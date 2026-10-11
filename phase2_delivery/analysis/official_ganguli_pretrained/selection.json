@@ -1,0 +1,59 @@
+{
+  "source": "official_ganguli_pretrained",
+  "discovery_only": true,
+  "used_topology": false,
+  "active_count": 3583,
+  "bias_excluded_count": 9,
+  "accepted_count": 3574,
+  "grid_like_count": 2105,
+  "primary_candidate_count": 970,
+  "candidate_reason": "frozen geometry-qualified band candidate",
+  "band_count": 1028,
+  "band_frequency_median": 2.75,
+  "orientation_check": {
+    "group_counts": [
+      358,
+      424,
+      188
+    ],
+    "angles_deg": [
+      179.50582708333116,
+      55.72251704114998,
+      112.53925535464342
+    ],
+    "circular_gaps_deg": [
+      56.81673831349344,
+      66.96657172868774,
+      56.2166899578188
+    ]
+  },
+  "rotation_clusters": {
+    "-1": 111,
+    "0": 363,
+    "1": 258,
+    "2": 349,
+    "3": 84,
+    "4": 39,
+    "5": 212,
+    "6": 177,
+    "7": 262,
+    "8": 182,
+    "9": 111,
+    "10": 194,
+    "11": 72,
+    "12": 99,
+    "13": 216,
+    "14": 106,
+    "15": 181,
+    "16": 98,
+    "17": 173,
+    "18": 192,
+    "19": 44,
+    "20": 51
+  },
+  "computational_seconds": 111.79475260002073,
+  "mask_file_sha256": "3074694be64a618177f5f028de69ac5acded90e966c02c87d30995d10004ecd3",
+  "protocol_sha256": "8149f8bb65bd66e8061525fc39601310612d4de8f26afbcceb00caf00f2e4fb5",
+  "missing_discovery_bins": 0,
+  "no_manual_cluster_merging": true
+}

@@ -1,0 +1,179 @@
+{
+  "source": "official_ganguli_pretrained",
+  "condition": "stationary",
+  "split": "confirmation",
+  "observed": {
+    "signature_pass": true,
+    "score": 0.3010423985245921,
+    "second_H1_normalized_lifetime": 0.3292455245883926,
+    "first_H2_normalized_lifetime": 0.3010423985245921,
+    "H1_second_to_third_ratio": 2.2089231594252245,
+    "H2_first_to_second_ratio": 2.844348408337987,
+    "beta121_intervals": [
+      [
+        0.8047049045562744,
+        0.908356249332428
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.07688016272069799,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      512,
+      593,
+      354
+    ],
+    "n_input": 4096,
+    "landmarks": 512,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.348219633102417,
+    "distance_scale": 1.348219633102417,
+    "seconds": 2.3350061000091955
+  },
+  "sensitivity": [
+    {
+      "signature_pass": true,
+      "score": 0.3010423985245921,
+      "second_H1_normalized_lifetime": 0.3292455245883926,
+      "first_H2_normalized_lifetime": 0.3010423985245921,
+      "H1_second_to_third_ratio": 2.2089231594252245,
+      "H2_first_to_second_ratio": 2.844348408337987,
+      "beta121_intervals": [
+        [
+          0.8047049045562744,
+          0.908356249332428
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.07688016272069799,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        593,
+        354
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 2,
+      "metric": "euclidean",
+      "threshold": 1.348219633102417,
+      "distance_scale": 1.348219633102417,
+      "seconds": 2.2406387999653816,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": false,
+      "score": 0.0,
+      "second_H1_normalized_lifetime": 0.320838325314445,
+      "first_H2_normalized_lifetime": 0.2538980383339891,
+      "H1_second_to_third_ratio": 2.0435576466343135,
+      "H2_first_to_second_ratio": 2.880126697686748,
+      "beta121_intervals": [
+        [
+          0.8843681216239929,
+          0.9443331956863403
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.04452605205587006,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        384,
+        441,
+        267
+      ],
+      "n_input": 4096,
+      "landmarks": 384,
+      "field": 47,
+      "metric": "euclidean",
+      "threshold": 1.3467413187026978,
+      "distance_scale": 1.3467413187026978,
+      "seconds": 0.794946699985303,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": true,
+      "score": 0.3190766634049509,
+      "second_H1_normalized_lifetime": 0.3190766634049509,
+      "first_H2_normalized_lifetime": 0.4786579488200346,
+      "H1_second_to_third_ratio": 2.467500276448536,
+      "H2_first_to_second_ratio": 2.0815714147063282,
+      "beta121_intervals": [
+        [
+          0.3993956446647644,
+          0.47094547748565674
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.06731323406128474,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        601,
+        342
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.0629385709762573,
+      "distance_scale": 1.0629385709762573,
+      "seconds": 2.1728195999749005,
+      "representation": "raw"
+    },
+    {
+      "signature_pass": true,
+      "score": 0.39889786302456914,
+      "second_H1_normalized_lifetime": 0.39889786302456914,
+      "first_H2_normalized_lifetime": 0.5491608153467616,
+      "H1_second_to_third_ratio": 3.4914411769482956,
+      "H2_first_to_second_ratio": 3.9196604022578843,
+      "beta121_intervals": [
+        [
+          0.22453057765960693,
+          0.22907596826553345
+        ],
+        [
+          0.23180896043777466,
+          0.2442951202392578
+        ],
+        [
+          0.2585734724998474,
+          0.48798251152038574
+        ]
+      ],
+      "longest_beta121_interval_normalized": 0.2164284526986099,
+      "censored_bars_by_dimension": [
+        1,
+        0,
+        0
+      ],
+      "bar_counts": [
+        512,
+        495,
+        193
+      ],
+      "n_input": 4096,
+      "landmarks": 512,
+      "field": 47,
+      "metric": "cosine",
+      "threshold": 1.05997633934021,
+      "distance_scale": 1.05997633934021,
+      "seconds": 2.272838100034278,
+      "representation": "PCA6"
+    }
+  ]
+}

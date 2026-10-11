@@ -1,0 +1,231 @@
+[
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.2146728448628935,
+    "first_H2_normalized_lifetime": 0.07498051708250308,
+    "H1_second_to_third_ratio": 1.0560079898056443,
+    "H2_first_to_second_ratio": 1.1966419736255924,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      223,
+      68
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5630109310150146,
+    "distance_scale": 1.5630109310150146,
+    "seconds": 1.122982500004582,
+    "population": "all_neurons",
+    "n_cells": 4096,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 6.389036655426025,
+      "participation_ratio": 24.12932014465332,
+      "points": 384,
+      "neurons": 4096
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.43764601404724496,
+    "first_H2_normalized_lifetime": 0.16786590228442694,
+    "H1_second_to_third_ratio": 1.0883558481398512,
+    "H2_first_to_second_ratio": 1.169353582262689,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      238,
+      137
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0526759624481201,
+    "distance_scale": 1.0526759624481201,
+    "seconds": 1.0619098999886774,
+    "population": "all_neurons",
+    "n_cells": 4096,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.24037515426891412,
+    "first_H2_normalized_lifetime": 0.05597394977960694,
+    "H1_second_to_third_ratio": 1.054689425146954,
+    "H2_first_to_second_ratio": 1.5068739043273305,
+    "beta121_intervals": [
+      [
+        1.2791060209274292,
+        1.3101379871368408
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.020276956516184955,
+    "censored_bars_by_dimension": [
+      1,
+      1,
+      0
+    ],
+    "bar_counts": [
+      384,
+      190,
+      35
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5304055213928223,
+    "distance_scale": 1.5304055213928223,
+    "seconds": 1.002964899991639,
+    "population": "grid_like",
+    "n_cells": 71,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 7.667821407318115,
+      "participation_ratio": 13.686025619506836,
+      "points": 384,
+      "neurons": 71
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.4134534487995543,
+    "first_H2_normalized_lifetime": 0.20487754573194916,
+    "H1_second_to_third_ratio": 1.0186494428195354,
+    "H2_first_to_second_ratio": 1.0506263740345279,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      245,
+      216
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0369045734405518,
+    "distance_scale": 1.0369045734405518,
+    "seconds": 1.066681600001175,
+    "population": "grid_like",
+    "n_cells": 71,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  },
+  {
+    "population": "primary_candidate",
+    "n_cells": 0,
+    "status": "not_testable"
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.24144421618501125,
+    "first_H2_normalized_lifetime": 0.04484266801019698,
+    "H1_second_to_third_ratio": 1.0371047320008404,
+    "H2_first_to_second_ratio": 1.4321025983364952,
+    "beta121_intervals": [
+      [
+        1.1213911771774292,
+        1.1295348405838013
+      ],
+      [
+        1.186789631843567,
+        1.1897690296173096
+      ]
+    ],
+    "longest_beta121_interval_normalized": 0.005249881575262648,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      203,
+      38
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "euclidean",
+    "threshold": 1.5512089729309082,
+    "distance_scale": 1.5512089729309082,
+    "seconds": 1.0068509000120685,
+    "population": "rotation_cluster_2",
+    "n_cells": 72,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false,
+    "intrinsic_dimension": {
+      "twoNN_trimmed": 6.874054431915283,
+      "participation_ratio": 11.88232135772705,
+      "points": 384,
+      "neurons": 72
+    }
+  },
+  {
+    "signature_pass": false,
+    "score": 0.0,
+    "second_H1_normalized_lifetime": 0.37060577195347727,
+    "first_H2_normalized_lifetime": 0.1876661219545578,
+    "H1_second_to_third_ratio": 1.0672123014685737,
+    "H2_first_to_second_ratio": 1.031314615781431,
+    "beta121_intervals": [],
+    "longest_beta121_interval_normalized": 0.0,
+    "censored_bars_by_dimension": [
+      1,
+      0,
+      0
+    ],
+    "bar_counts": [
+      384,
+      210,
+      123
+    ],
+    "n_input": 512,
+    "landmarks": 384,
+    "field": 47,
+    "metric": "cosine",
+    "threshold": 1.0756391286849976,
+    "distance_scale": 1.0756391286849976,
+    "seconds": 0.8368791000102647,
+    "population": "rotation_cluster_2",
+    "n_cells": 72,
+    "status": "tested",
+    "split": "validation",
+    "confirmatory": false
+  }
+]

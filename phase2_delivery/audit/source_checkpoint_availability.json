@@ -1,0 +1,58 @@
+{
+  "official_repo": "https://github.com/ganguli-lab/grid-pattern-formation",
+  "official_commit": "401dd6b5e20a754267b16eeb5bd88239b9af33e9",
+  "trusted_reproduction_repo": "https://github.com/yuling-wu/hierarchy_band_grid",
+  "reproduction_commit": "55bf433e6ba5f64035ed7a12a5a464f7106ac585",
+  "inference_checkpoint_complete": true,
+  "arrays_shapes": [
+    [
+      512,
+      4096
+    ],
+    [
+      2,
+      4096
+    ],
+    [
+      4096,
+      4096
+    ],
+    [
+      4096,
+      512
+    ]
+  ],
+  "copied_checkpoint_not_independent_seed": true,
+  "optimizer_history_available": false,
+  "original_training_seed_verified": false,
+  "original_training_budget_verified": false,
+  "Schoyen_three_environment_checkpoint_available": false,
+  "scope": "Public Sorscher single-environment inference weights, not Schoyen exact checkpoint. Four no-bias matrix transposes implement the same recurrence.",
+  "artifacts": [
+    {
+      "name": "example_trained_weights.npy",
+      "sha256": "5277a433615f00894ffe13d55b46d5becda9b362e099c7c73a6191e61bf51ff2",
+      "git_blob_sha": "9f48578dd4d083af379bc344b48582d2463500c0",
+      "bytes": 83919352
+    },
+    {
+      "name": "example_pc_centers.npy",
+      "sha256": "cafa64a4894d5f1c4aaf4befdf036fb43e9c9ed2f2825b79feb02ad1f7199997",
+      "git_blob_sha": "3f20e5ab2e65d177b80918a1671b8360b436b040",
+      "bytes": 4224
+    }
+  ],
+  "runtime": {
+    "numpy": "2.4.6",
+    "torch": "2.7.1+cu128",
+    "scipy": "1.17.1",
+    "h5py": "3.16.0",
+    "scikit-learn": "1.9.1",
+    "umap-learn": "0.5.12",
+    "numba": "0.68.0",
+    "llvmlite": "0.50.0",
+    "matplotlib": "3.11.2",
+    "plotly": "7.1.0",
+    "ripser": "0.6.15"
+  }
+}
