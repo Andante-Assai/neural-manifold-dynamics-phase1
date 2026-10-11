@@ -1,0 +1,517 @@
+{
+  "status": "passed",
+  "all_file_hashes": true,
+  "all_finite": true,
+  "units_and_alignment": true,
+  "probability_normalization": true,
+  "replayed_samples_per_chunk": "all",
+  "manual_recurrence": true,
+  "paired_prefix_max_abs_error": 0.0,
+  "results": [
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000000_000128.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000128_000256.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000256_000384.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000384_000512.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000512_000640.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000640_000768.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000768_000896.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_000896_001024.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001024_001152.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001152_001280.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001280_001408.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001408_001536.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001536_001664.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001664_001792.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001792_001920.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_001920_002048.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002048_002176.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002176_002304.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002304_002432.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002432_002560.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002560_002688.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002688_002816.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002816_002944.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_002944_003072.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003072_003200.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003200_003328.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003328_003456.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003456_003584.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003584_003712.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003712_003840.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003840_003968.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_003968_004096.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004096_004224.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004224_004352.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004352_004480.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004480_004608.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004608_004736.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004736_004864.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004864_004992.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_004992_005120.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005120_005248.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005248_005376.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005376_005504.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005504_005632.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005632_005760.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005760_005888.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_005888_006016.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006016_006144.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006144_006272.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006272_006400.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006400_006528.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006528_006656.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006656_006784.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006784_006912.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_006912_007040.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007040_007168.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007168_007296.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007296_007424.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007424_007552.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007552_007680.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007680_007808.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007808_007936.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_007936_008064.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/core_T20/chunk_008064_008192.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000000_000128.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000128_000256.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000256_000384.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000384_000512.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000512_000640.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000640_000768.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000768_000896.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/full4096_fast/exploratory_T160/chunk_000896_001024.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 0.0,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    }
+  ],
+  "tolerance_note": "float32 cuDNN batch/sequence length can alter summation order; numerical replay, not universal bit identity"
+}

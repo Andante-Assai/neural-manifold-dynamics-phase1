@@ -1,0 +1,23 @@
+name: emergent-gcs
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - tqdm
+  - jupyterlab
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - imageio
+  - pip
+  - pip:
+    - ctimeit
+    - rat-simulator
+    - git+https://github.com/CINPLA/spatial-maps.git@dev#egg=spatial-maps
+prefix: /home/vemundss/anaconda3/envs/ml

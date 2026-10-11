@@ -1,0 +1,11 @@
+{
+  "Ng": 4096,
+  "Np": 512,
+  "place_centers": "place_cell_centers.npy",
+  "recurrence": "h0=We p0; h[t]=ReLU(Wg h[t-1]+Wv u[t]); logits=Wd h[t]",
+  "input": "u[t]=position[t]-position[t-1] in metres; velocity_m_s=u[t]/0.02",
+  "h0_readout_untrained": true,
+  "checkpoint_step": 4750,
+  "weights_frozen_during_collection": true,
+  "status": "local training variant; path integration evaluated"
+}

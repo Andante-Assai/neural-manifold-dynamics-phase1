@@ -1,0 +1,562 @@
+[
+  {
+    "step": 1,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.7709280252456665,
+    "ensemble_centroid_shift_norm": 0.6849142909049988,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 1,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.7727017402648926,
+    "ensemble_centroid_shift_norm": 0.685628354549408,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 1,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.783602237701416,
+    "ensemble_centroid_shift_norm": 0.6904890537261963,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 1,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.7869036793708801,
+    "ensemble_centroid_shift_norm": 0.6929467916488647,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 2,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.7910249829292297,
+    "ensemble_centroid_shift_norm": 0.5029303431510925,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 2,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.7911105155944824,
+    "ensemble_centroid_shift_norm": 0.5017361044883728,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 2,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.7935861349105835,
+    "ensemble_centroid_shift_norm": 0.4987124800682068,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 2,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.7895724773406982,
+    "ensemble_centroid_shift_norm": 0.4928494989871979,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 3,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.7222208380699158,
+    "ensemble_centroid_shift_norm": 0.35834649205207825,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 3,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.7252019047737122,
+    "ensemble_centroid_shift_norm": 0.3587180972099304,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 3,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.7417230606079102,
+    "ensemble_centroid_shift_norm": 0.3572331666946411,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 3,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.7253890633583069,
+    "ensemble_centroid_shift_norm": 0.3434143364429474,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 4,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.39639097452163696,
+    "ensemble_centroid_shift_norm": 0.11470585316419601,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 4,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.4060388505458832,
+    "ensemble_centroid_shift_norm": 0.11608483642339706,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 4,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.4534348249435425,
+    "ensemble_centroid_shift_norm": 0.11595171689987183,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 4,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.4461964964866638,
+    "ensemble_centroid_shift_norm": 0.12213152647018433,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 5,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.20723673701286316,
+    "ensemble_centroid_shift_norm": 0.04158106818795204,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 5,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.21926388144493103,
+    "ensemble_centroid_shift_norm": 0.04322104901075363,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 5,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.29023003578186035,
+    "ensemble_centroid_shift_norm": 0.052772317081689835,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 5,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.30794045329093933,
+    "ensemble_centroid_shift_norm": 0.05509452149271965,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 6,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.1194131076335907,
+    "ensemble_centroid_shift_norm": 0.024713190272450447,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 6,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.1381676197052002,
+    "ensemble_centroid_shift_norm": 0.029228514060378075,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 6,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.22546866536140442,
+    "ensemble_centroid_shift_norm": 0.042980823665857315,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 6,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.2509618401527405,
+    "ensemble_centroid_shift_norm": 0.043428339064121246,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 7,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.08370509743690491,
+    "ensemble_centroid_shift_norm": 0.01879257895052433,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 7,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.10445422679185867,
+    "ensemble_centroid_shift_norm": 0.020965933799743652,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 7,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.1983378827571869,
+    "ensemble_centroid_shift_norm": 0.03659926727414131,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 7,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.22237646579742432,
+    "ensemble_centroid_shift_norm": 0.03542697802186012,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 8,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.06154237687587738,
+    "ensemble_centroid_shift_norm": 0.013889037072658539,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 8,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.08420226722955704,
+    "ensemble_centroid_shift_norm": 0.015325905755162239,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 8,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.1816594898700714,
+    "ensemble_centroid_shift_norm": 0.029765618965029716,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 8,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.20658600330352783,
+    "ensemble_centroid_shift_norm": 0.03814121335744858,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 9,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.05040319263935089,
+    "ensemble_centroid_shift_norm": 0.011870556510984898,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 9,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.07271400094032288,
+    "ensemble_centroid_shift_norm": 0.013295051641762257,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 9,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.17678269743919373,
+    "ensemble_centroid_shift_norm": 0.02694476768374443,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 9,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.20909565687179565,
+    "ensemble_centroid_shift_norm": 0.03457935154438019,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 10,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.04271784424781799,
+    "ensemble_centroid_shift_norm": 0.010134348645806313,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 10,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.06793035566806793,
+    "ensemble_centroid_shift_norm": 0.012670699506998062,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 10,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.1790781319141388,
+    "ensemble_centroid_shift_norm": 0.027984561398625374,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 10,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.21576470136642456,
+    "ensemble_centroid_shift_norm": 0.03793102130293846,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 11,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.0357697531580925,
+    "ensemble_centroid_shift_norm": 0.00889802910387516,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 11,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.06486605107784271,
+    "ensemble_centroid_shift_norm": 0.012025761418044567,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 11,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.17978456616401672,
+    "ensemble_centroid_shift_norm": 0.028358733281493187,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 11,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.21436884999275208,
+    "ensemble_centroid_shift_norm": 0.03836022689938545,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 12,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.03117983043193817,
+    "ensemble_centroid_shift_norm": 0.007910368964076042,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 12,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.06232306733727455,
+    "ensemble_centroid_shift_norm": 0.01137391198426485,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 12,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.18411193788051605,
+    "ensemble_centroid_shift_norm": 0.02993517927825451,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 12,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.21526718139648438,
+    "ensemble_centroid_shift_norm": 0.034470655024051666,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 13,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.029026804491877556,
+    "ensemble_centroid_shift_norm": 0.007544444873929024,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 13,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.060230523347854614,
+    "ensemble_centroid_shift_norm": 0.011268993839621544,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 13,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.18249812722206116,
+    "ensemble_centroid_shift_norm": 0.030458074063062668,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 13,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.22043836116790771,
+    "ensemble_centroid_shift_norm": 0.04057430103421211,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 14,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.02796676941215992,
+    "ensemble_centroid_shift_norm": 0.007337050046771765,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 14,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.05960020050406456,
+    "ensemble_centroid_shift_norm": 0.011268804781138897,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 14,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.18254919350147247,
+    "ensemble_centroid_shift_norm": 0.031140683218836784,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 14,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.21260230243206024,
+    "ensemble_centroid_shift_norm": 0.04078156501054764,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 15,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.026493975892663002,
+    "ensemble_centroid_shift_norm": 0.006879765074700117,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 15,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.0598941408097744,
+    "ensemble_centroid_shift_norm": 0.011314326897263527,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 15,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.18544244766235352,
+    "ensemble_centroid_shift_norm": 0.030349284410476685,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 15,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.21537283062934875,
+    "ensemble_centroid_shift_norm": 0.041203342378139496,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 16,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.024938207119703293,
+    "ensemble_centroid_shift_norm": 0.006248605903238058,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 16,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.060665301978588104,
+    "ensemble_centroid_shift_norm": 0.011568944901227951,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 16,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.19237905740737915,
+    "ensemble_centroid_shift_norm": 0.03328530862927437,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 16,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.22769871354103088,
+    "ensemble_centroid_shift_norm": 0.046229079365730286,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 17,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.02371060475707054,
+    "ensemble_centroid_shift_norm": 0.0058853221125900745,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 17,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.0609067939221859,
+    "ensemble_centroid_shift_norm": 0.011368359439074993,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 17,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.19647392630577087,
+    "ensemble_centroid_shift_norm": 0.03465155512094498,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 17,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.20340892672538757,
+    "ensemble_centroid_shift_norm": 0.04091499745845795,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 18,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.022864453494548798,
+    "ensemble_centroid_shift_norm": 0.005575782153755426,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 18,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.06020832061767578,
+    "ensemble_centroid_shift_norm": 0.01100725494325161,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 18,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.18966436386108398,
+    "ensemble_centroid_shift_norm": 0.03282047063112259,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 18,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.18567466735839844,
+    "ensemble_centroid_shift_norm": 0.03782009333372116,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 19,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.022048786282539368,
+    "ensemble_centroid_shift_norm": 0.005253320559859276,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 19,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.05910154804587364,
+    "ensemble_centroid_shift_norm": 0.010661599226295948,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 19,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.17964020371437073,
+    "ensemble_centroid_shift_norm": 0.031753502786159515,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 19,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.18977540731430054,
+    "ensemble_centroid_shift_norm": 0.038189828395843506,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 20,
+    "condition": "stationary",
+    "paired_mean_delta_norm": 0.021178945899009705,
+    "ensemble_centroid_shift_norm": 0.004919657949358225,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 20,
+    "condition": "constant_velocity",
+    "paired_mean_delta_norm": 0.05793851613998413,
+    "ensemble_centroid_shift_norm": 0.01002940908074379,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 20,
+    "condition": "closed_circle",
+    "paired_mean_delta_norm": 0.17928552627563477,
+    "ensemble_centroid_shift_norm": 0.031691692769527435,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  },
+  {
+    "step": 20,
+    "condition": "random_foraging",
+    "paired_mean_delta_norm": 0.1973079890012741,
+    "ensemble_centroid_shift_norm": 0.03449342027306557,
+    "note": "paired state displacement and centroid shift in all raw neurons; neither establishes manifold deformation"
+  }
+]

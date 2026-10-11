@@ -1,0 +1,62 @@
+{
+  "inspected_on": "2026-10-11 Asia/Shanghai",
+  "paper": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10589895/",
+  "author_repo": "https://github.com/bioAI-Oslo/emergent-grid-cells",
+  "github_main_commit": "3b0a34da4bac1e894796fe869d064cd53bfd9faa",
+  "publication_v1_commit": "66e92c6c65708011abb8f0a7448c7eb7c7a109b6",
+  "rat_simulator_commit": "42c8cef3978573bfeed0468b4e3cc1cb821bce0d",
+  "model_files_identical_main_vs_v1": {
+    "src/Models/SorscherRNN.py": true,
+    "src/PlaceCells.py": true,
+    "src/Logger.py": true,
+    "src/datahandling.py": true
+  },
+  "matching_checkpoint_or_data_files": {
+    "github-tree": [],
+    "github-v1-tree": [],
+    "rat-tree": []
+  },
+  "release_assets": [
+    []
+  ],
+  "zenodo_record": "https://zenodo.org/records/8318009",
+  "zenodo_files": [
+    {
+      "id": "f3579942-0082-44cd-aba9-f5083f44c8cb",
+      "key": "bioAI-Oslo/emergent-grid-cells-v1.0.zip",
+      "size": 44095123,
+      "checksum": "md5:95eb6a8edfb92847b066db46a9f0801b",
+      "links": {
+        "self": "https://zenodo.org/api/records/8318009/files/bioAI-Oslo/emergent-grid-cells-v1.0.zip/content"
+      }
+    }
+  ],
+  "availability_conclusion": "No public training weights or trajectory arrays in inspected repository main/v1 trees or release assets. Zenodo lists only a code zip. This does not establish that weights are unavailable privately or in uninspected locations.",
+  "missing_default_input": "Experiment._init_default_experiment requires example_pc_centers.npy, absent from inspected repo. Local run samples a seeded uniform place layout using the author PlaceCells class.",
+  "archive_download_note": "GitHub commit zip successfully downloaded and extracted. Zenodo code-zip transfer ended prematurely; metadata retained. No need to substitute this partial archive for source.",
+  "paper_settings": {
+    "Ng": 4096,
+    "Np": 512,
+    "T": 20,
+    "dt": 0.02,
+    "box_m": [
+      2.2,
+      2.2
+    ],
+    "batch": 200,
+    "lr": 0.0001,
+    "recurrent_L2": 0.0001,
+    "paper_main_environments": 3,
+    "minibatches_per_environment": 100000
+  },
+  "implementation_notes": [
+    "Author SorscherRNN and PlaceCells imported without editing them.",
+    "Use author loss_fn with positive L2 penalty as in code; printed paper Equation 5 has a minus sign, in conflict with prose/code.",
+    "Author Agent.velocities stores dt-scaled displacement. model_input is metres per step; physical velocity_m_s is separately stored.",
+    "h0 is linear initial_position_encoder(p0), can be negative; ReLU first occurs at recurrent step 1.",
+    "Author overrides Module.train with a custom training loop; fixed-weight inference calls Module.train(model, False) directly.",
+    "CPU generation is vectorized from author Agent rules. RNG call ordering and float32 position accumulation differ from serial author trajectories.",
+    "Local accelerated recipe differs in learning rate, L2, place layout, number of environments, training budget and PyTorch version.",
+    "No strict paper replication, grid-cell replication, torus replication or cross-environment generalization claim."
+  ]
+}

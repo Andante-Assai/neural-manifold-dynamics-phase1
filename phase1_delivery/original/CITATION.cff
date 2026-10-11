@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - Family-names: "Schoeyen"
+    given-names: "Vemund"
+  - Family-names: "Borud Pettersen"
+    given-names: "Pettersen"
+  - Family-names: "Holzhausen"
+    given-names: "Konstantin"
+  - Family-names: "Fyhn"
+    given-names: "Marianne"
+  - Family-names: "Malthe-Sørenssen"
+    given-names: "Anders"
+  - Family-names: "Elle Lepperød"
+    given-names: "Mikkel"
+title: "Code for iScience paper: Coherently Remapping Toroidal Cells But Not Grid Cells are Responsible for Path Integration in Virtual Agents"
+version: v1.0
+doi: 10.5281/zenodo.8318009
+date-released: 2023-09-05
+URL: "https://github.com/bioAI-Oslo/emergent-grid-cells/tree/main"
+

@@ -1,0 +1,226 @@
+[
+  {
+    "dataset": "core_T20",
+    "condition": "stationary",
+    "step": 0,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "stationary",
+    "step": 1,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "stationary",
+    "step": 5,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "stationary",
+    "step": 10,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "stationary",
+    "step": 20,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "constant_velocity",
+    "step": 0,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "constant_velocity",
+    "step": 1,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "constant_velocity",
+    "step": 5,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "constant_velocity",
+    "step": 10,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "constant_velocity",
+    "step": 20,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "closed_circle",
+    "step": 0,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "closed_circle",
+    "step": 1,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "closed_circle",
+    "step": 5,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "closed_circle",
+    "step": 10,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "closed_circle",
+    "step": 20,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "random_foraging",
+    "step": 0,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "random_foraging",
+    "step": 1,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "random_foraging",
+    "step": 5,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "random_foraging",
+    "step": 10,
+    "occupied_20x20_fraction": 0.08,
+    "outside_count": 0
+  },
+  {
+    "dataset": "core_T20",
+    "condition": "random_foraging",
+    "step": 20,
+    "occupied_20x20_fraction": 0.075,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "stationary",
+    "step": 40,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "stationary",
+    "step": 80,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "stationary",
+    "step": 160,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "constant_velocity",
+    "step": 40,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "constant_velocity",
+    "step": 80,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "constant_velocity",
+    "step": 160,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "closed_circle",
+    "step": 40,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "closed_circle",
+    "step": 80,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "closed_circle",
+    "step": 160,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "random_foraging",
+    "step": 40,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "random_foraging",
+    "step": 80,
+    "occupied_20x20_fraction": 0.02,
+    "outside_count": 0
+  },
+  {
+    "dataset": "exploratory_T160",
+    "condition": "random_foraging",
+    "step": 160,
+    "occupied_20x20_fraction": 0.0175,
+    "outside_count": 0
+  }
+]

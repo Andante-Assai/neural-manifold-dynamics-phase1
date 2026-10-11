@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "author_boundary_cases": 505,
+  "rejection_vectors_match": true,
+  "scalar_speed_turn_match": true,
+  "stationary_exact": true,
+  "constant_displacement": true,
+  "closed_circle_period20": true,
+  "input_position_alignment": true,
+  "caveat": "Tests establish equation and controlled-path semantics; stochastic RNG ordering is not the author serial generator ordering."
+}

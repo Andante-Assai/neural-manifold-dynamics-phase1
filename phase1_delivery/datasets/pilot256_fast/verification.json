@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "all_file_hashes": true,
+  "all_finite": true,
+  "units_and_alignment": true,
+  "probability_normalization": true,
+  "replayed_samples_per_chunk": "all",
+  "manual_recurrence": true,
+  "paired_prefix_max_abs_error": 0.0,
+  "results": [
+    {
+      "path": "datasets/pilot256_fast/core_T20/chunk_000000_000032.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 4.172325134277344e-07,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/pilot256_fast/core_T20/chunk_000032_000064.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 5.867332220077515e-07,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/pilot256_fast/core_T20/chunk_000064_000096.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 4.172325134277344e-07,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/pilot256_fast/core_T20/chunk_000096_000128.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 5.960464477539062e-07,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    },
+    {
+      "path": "datasets/pilot256_fast/exploratory_T160/chunk_000000_000032.h5",
+      "replay_max_abs_error": 0.0,
+      "manual_max_abs_error": 1.3714190572500229e-05,
+      "readout_max_abs_error": 0.0,
+      "hash_verified": true
+    }
+  ],
+  "tolerance_note": "float32 cuDNN batch/sequence length can alter summation order; numerical replay, not universal bit identity"
+}

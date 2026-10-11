@@ -1,0 +1,12 @@
+{
+  "mean_error_m": 0.8891702890396118,
+  "final_error_m": 0.8853662610054016,
+  "no_motion_baseline_m": 0.1993653029203415,
+  "final_no_motion_baseline_m": 0.35296356678009033,
+  "zero_input_error_m": 0.8842806220054626,
+  "shuffled_input_error_m": 0.8889743685722351,
+  "place_decoder_floor_m": 0.04264656826853752,
+  "mean_KL": 0.09658070653676987,
+  "n": 1024,
+  "seed": 992
+}

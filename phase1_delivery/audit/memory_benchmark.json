@@ -1,0 +1,52 @@
+[
+  {
+    "Ng": 256,
+    "Np": 512,
+    "batch_size": 200,
+    "T": 20,
+    "success": true,
+    "median_train_step_s": 0.0029285000055097044,
+    "peak_allocated_bytes": 160775680,
+    "peak_reserved_bytes": 209715200
+  },
+  {
+    "Ng": 512,
+    "Np": 512,
+    "batch_size": 200,
+    "T": 20,
+    "success": true,
+    "median_train_step_s": 0.005072200030554086,
+    "peak_allocated_bytes": 165725696,
+    "peak_reserved_bytes": 199229440
+  },
+  {
+    "Ng": 1024,
+    "Np": 512,
+    "batch_size": 200,
+    "T": 20,
+    "success": true,
+    "median_train_step_s": 0.007632099965121597,
+    "peak_allocated_bytes": 258004480,
+    "peak_reserved_bytes": 308281344
+  },
+  {
+    "Ng": 2048,
+    "Np": 512,
+    "batch_size": 200,
+    "T": 20,
+    "success": true,
+    "median_train_step_s": 0.020094599982257932,
+    "peak_allocated_bytes": 476427264,
+    "peak_reserved_bytes": 572522496
+  },
+  {
+    "Ng": 4096,
+    "Np": 512,
+    "batch_size": 200,
+    "T": 20,
+    "success": true,
+    "median_train_step_s": 0.059582200017757714,
+    "peak_allocated_bytes": 1098445824,
+    "peak_reserved_bytes": 1434451968
+  }
+]
